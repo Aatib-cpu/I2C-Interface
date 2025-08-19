@@ -1,0 +1,72 @@
+{
+    "args": [
+        "-o",
+        "I2C_FIFO",
+        "--base_path",
+        "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip",
+        "--vlnv",
+        {
+            "vendor": "efinixinc.com",
+            "library": "memory",
+            "name": "efx_fifo_top",
+            "version": "5.1"
+        }
+    ],
+    "conf": {
+        "SYNC_CLK": "0",
+        "SYNC_STAGE": "2",
+        "DEPTH_2": "10",
+        "DATA_WIDTH": "8",
+        "MODE": "\"STANDARD\"",
+        "OUTPUT_REG": "0",
+        "PROG_FULL_ASSERT": "128",
+        "PROGRAMMABLE_FULL": "\"STATIC_SINGLE\"",
+        "PFN_INTERNAL": "127",
+        "PEA_INTERNAL": "2",
+        "PEN_INTERNAL": "3",
+        "PROGRAMMABLE_EMPTY": "\"NONE\"",
+        "OPTIONAL_FLAGS": "1",
+        "PIPELINE_REG": "1",
+        "FAMILY": "\"TRION\"",
+        "ASYM_WIDTH_RATIO": "4",
+        "BYPASS_RESET_SYNC": "0",
+        "ENDIANESS": "0"
+    },
+    "output": {
+        "external_source_source": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO_tmpl.vhd",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO_define.vh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO_tmpl.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v"
+        ],
+        "external_example_example": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/T20F256_devkit/fifo_demo.peri.xml",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/T20F256_devkit/fifo_demo.xml",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/T20F256_devkit/fifo_demo_top.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/T20F256_devkit/fifo_demo_T20.sdc",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/T20F256_devkit/efx_symmetric_width_fifo_top.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/T20F256_devkit/I2C_FIFO.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/T20F256_devkit/I2C_FIFO_define.vh"
+        ],
+        "external_example_2": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Ti60F225_devkit/fifo_demo.peri.xml",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Ti60F225_devkit/fifo_demo.xml",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Ti60F225_devkit/fifo_demo_top.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Ti60F225_devkit/fifo_demo_Ti60.sdc",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Ti60F225_devkit/efx_symmetric_width_fifo_top.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Ti60F225_devkit/I2C_FIFO.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Ti60F225_devkit/I2C_FIFO_define.vh"
+        ],
+        "external_testbench_testbench": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Testbench/fifo_tb.sv",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Testbench/xrun.sh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Testbench/msim.sh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Testbench/flist",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Testbench/modelsim.do",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Testbench/I2C_FIFO.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/Testbench/I2C_FIFO_define.vh"
+        ]
+    },
+    "sw_version": "2023.2.307",
+    "generated_date": "2024-04-13T08:42:03.958931"
+}

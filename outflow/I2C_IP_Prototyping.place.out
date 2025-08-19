@@ -1,0 +1,246 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2023.2.307 
+Compiled: Dec 15 2023.
+
+Copyright (C) 2013 - 2023 Efinix, Inc. All rights reserved.
+
+
+The Tool Is Based on VPR of University of Toronto,
+a free open source code under MIT license.
+
+
+Running Placement and Routing for Family "Trion", Device "T120F324" ...
+
+***** Beginning stage netlist pre-processing ... *****
+Successfully Read in Verific binary Netlist dump file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.vdb".
+***** Beginning VDB Netlist Checker ... *****
+VDB Netlist Checker took 0.0310317 seconds.
+	VDB Netlist Checker took 0.03 seconds (approximately) in total CPU time.
+VDB Netlist Checker virtual memory usage: begin = 199.96 MB, end = 199.96 MB, delta = 0 MB
+VDB Netlist Checker resident set memory usage: begin = 63.016 MB, end = 63.272 MB, delta = 0.256 MB
+	VDB Netlist Checker peak resident set memory usage = 2487.76 MB
+***** Ending VDB Netlist Checker ... *****
+Reading core interface constraints from '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.interface.csv'.
+Successfully processed interface constraints file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.interface.csv".
+Found 0 constant generator nets.
+Pass 0: Swept away 0 nets with no fanout.
+Pass 0: Swept away 0 blocks with no fanout.
+Swept away 0 nets and 0 blocks in total.
+Removed 0 LUT buffers.
+Successfully created VPR logical netlist from Verific binary DataBase file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.vdb".
+Netlist pre-processing took 0.0691768 seconds.
+	Netlist pre-processing took 0.07 seconds (approximately) in total CPU time.
+Netlist pre-processing virtual memory usage: begin = 199.96 MB, end = 199.96 MB, delta = 0 MB
+Netlist pre-processing resident set memory usage: begin = 62.376 MB, end = 63.656 MB, delta = 1.28 MB
+	Netlist pre-processing peak resident set memory usage = 2487.76 MB
+***** Ending stage netlist pre-processing *****
+
+***** Beginning stage pre-packing ... *****
+***** Ending stage pre-packing *****
+
+***** Beginning stage packing ... *****
+Generate proto netlist for file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/work_pnr/I2C_IP_Prototyping.net_proto" took 0.001851 seconds
+Creating IO constraints file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/work_pnr/I2C_IP_Prototyping.io_place'
+Packing took 0.0171501 seconds.
+	Packing took 0.02 seconds (approximately) in total CPU time.
+Packing virtual memory usage: begin = 203.368 MB, end = 203.5 MB, delta = 0.132 MB
+Packing resident set memory usage: begin = 67.24 MB, end = 67.624 MB, delta = 0.384 MB
+	Packing peak resident set memory usage = 2487.76 MB
+***** Ending stage packing *****
+
+***** Beginning stage packed netlist loading ... *****
+Read proto netlist file /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/work_pnr/I2C_IP_Prototyping.net_proto
+Read proto netlist for file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/work_pnr/I2C_IP_Prototyping.net_proto" took 0.000738 seconds
+Setup net and block data structure took 0.052251 seconds
+Packed netlist loading took 0.152244 seconds.
+	Packed netlist loading took 0.14 seconds (approximately) in total CPU time.
+Packed netlist loading virtual memory usage: begin = 203.5 MB, end = 507.356 MB, delta = 303.856 MB
+Packed netlist loading resident set memory usage: begin = 67.624 MB, end = 78.564 MB, delta = 10.94 MB
+	Packed netlist loading peak resident set memory usage = 2487.76 MB
+***** Ending stage packed netlist loading *****
+
+***** Beginning stage pre-placement ... *****
+
+***** Ending stage pre-placement *****
+
+
+No SDC file found.  Using default timing constraint of 1 ns.
+NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+
+***** Beginning stage initial placement ... *****
+Reading core interface constraints from '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.interface.csv'.
+Successfully processed interface constraints file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.interface.csv".
+Writing IO placement constraints to '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.interface.io'.
+
+Reading placement constraints from '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.interface.io'.
+
+Reading placement constraints from '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/work_pnr/I2C_IP_Prototyping.io_place'.
+***** Ending stage initial placement *****
+
+***** Beginning stage placement ... *****
+Found 48 synchronizers as follows: 
+	Synchronizer 0:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][2]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[2]~FF
+	Synchronizer 1:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][10]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[10]~FF
+	Synchronizer 2:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][3]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[3]~FF
+	Synchronizer 3:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][9]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[9]~FF
+	Synchronizer 4:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][4]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[4]~FF
+	Synchronizer 5:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][8]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[8]~FF
+	Synchronizer 6:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][5]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[5]~FF
+	Synchronizer 7:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][7]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[7]~FF
+	Synchronizer 8:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][2]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[2]~FF
+	Synchronizer 9:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][7]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[7]~FF
+	Synchronizer 10:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][3]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[3]~FF
+	Synchronizer 11:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][1]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[1]~FF
+	Synchronizer 12:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][4]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[4]~FF
+	Synchronizer 13:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][0]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[0]~FF
+	Synchronizer 14:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][5]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[5]~FF
+	Synchronizer 15:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][6]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[6]~FF
+	Synchronizer 16:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][2]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[2]~FF
+	Synchronizer 17:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][3]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[3]~FF
+	Synchronizer 18:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][4]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[4]~FF
+	Synchronizer 19:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][10]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[10]~FF
+	Synchronizer 20:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][5]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[5]~FF
+	Synchronizer 21:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][6]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[6]~FF
+	Synchronizer 22:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][9]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[9]~FF
+	Synchronizer 23:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][0]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[0]~FF
+	Synchronizer 24:  i2c_wr_fifo/u_efx_fifo_top/genblk2.rd_rst[0]~FF i2c_wr_fifo/u_efx_fifo_top/genblk2.rd_rst[1]~FF
+	Synchronizer 25:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][1]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[1]~FF
+	Synchronizer 26:  i2c_wr_fifo/u_efx_fifo_top/genblk2.wr_rst[0]~FF i2c_wr_fifo/u_efx_fifo_top/genblk2.wr_rst[1]~FF
+	Synchronizer 27:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][8]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[8]~FF
+	Synchronizer 28:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][5]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[5]~FF
+	Synchronizer 29:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][9]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[9]~FF
+	Synchronizer 30:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][4]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[4]~FF
+	Synchronizer 31:  i2c_rd_fifo/u_efx_fifo_top/genblk2.rd_rst[0]~FF i2c_rd_fifo/u_efx_fifo_top/genblk2.rd_rst[1]~FF
+	Synchronizer 32:  i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][10]~FF i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[10]~FF
+	Synchronizer 33:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][3]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[3]~FF
+	Synchronizer 34:  i2c_rd_fifo/u_efx_fifo_top/genblk2.wr_rst[0]~FF i2c_rd_fifo/u_efx_fifo_top/genblk2.wr_rst[1]~FF
+	Synchronizer 35:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][2]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[2]~FF
+	Synchronizer 36:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][6]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[6]~FF
+	Synchronizer 37:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][0]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[0]~FF
+	Synchronizer 38:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][1]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[1]~FF
+	Synchronizer 39:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][7]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[7]~FF
+	Synchronizer 40:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][8]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[8]~FF
+	Synchronizer 41:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][6]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[6]~FF
+	Synchronizer 42:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][0]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[0]~FF
+	Synchronizer 43:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][1]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[1]~FF
+	Synchronizer 44:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][7]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[7]~FF
+	Synchronizer 45:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][8]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[8]~FF
+	Synchronizer 46:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][9]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[9]~FF
+	Synchronizer 47:  i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][10]~FF i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[10]~FF
+Create /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping_after_qp.qdelay
+QPLACER STATIC DB USAGE DISABLED
+Starting Global Placer with 4 threads ...
+
+ ----------     -------  --------------     -------
+  Iteration       WHPWL Worst Slack (ps) Convergence
+ ----------     -------  --------------     -------
+          1      219967           -3037        30.8%
+          2      356375           -3081        30.8%
+          3      211540           -3380        31.6%
+          4      210708           -3365        32.5%
+          5      117553           -3321        32.5%
+          6       46778           -3102        32.7%
+          7       27298           -3365        38.5%
+          8       23077           -4187        48.9%
+          9       20404           -4502        57.2%
+         10       16949           -5057        62.7%
+         11       16112           -4908        66.1%
+         12       17506           -4677        67.3%
+         13       17963           -4829        67.8%
+         14       16916           -4669        69.6%
+         15       17822           -4450        70.4%
+         16       17768           -4677        70.9%
+         17       16834           -4477        72.2%
+         18       15861           -4971        73.5%
+         19       15997           -4596        74.6%
+         20       16577           -4778        74.6%
+         21       16295           -4767        75.8%
+         22       15569           -4897        78.0%
+         23       15202           -4588        78.2%
+         24       14724           -4937        79.7%
+         25       14235           -5102        81.1%
+         26       14695           -5027        82.4%
+         27       14596           -5395        83.0%
+         28       14149           -5506        84.2%
+         29       13804           -5002        84.9%
+         30       13299           -5154        85.7%
+         31       12963           -5296        87.1%
+         32       13203           -5612        87.1%
+         33       12824           -5342        87.8%
+         34       12975           -5171        89.1%
+         35       12721           -5400        89.6%
+         36       12768           -5451        89.6%
+         37       12990           -5294        90.1%
+         38       13110           -5418        90.5%
+         39       13027           -5387        91.2%
+         40       12735           -5418        92.3%
+         41       13019           -5278        92.3%
+         42       12918           -5716        92.5%
+         43       13186           -5824        92.7%
+         44       12684           -5651        92.9%
+         45       12908           -5651        94.2%
+         46       13071           -5788        94.6%
+         47       12880           -5788        95.1%
+         48       12893           -5903        95.8%
+         49       12793           -6249        96.7%
+         50       12835           -6364        97.5%
+         51       12773           -6364        98.3%
+         52       12681           -6335        98.6%
+         53       12779           -6332        98.6%
+         54       12777           -6266        98.9%
+Starting Annealer
+
+ ----------     -------  --------------     -------
+  Iteration       WHPWL  Delay Max (ps)     R Limit
+ ----------     -------  --------------     -------
+          0       12893            6833        30.0
+          1       10465            6942        30.0
+          2        7798            6360        30.0
+          3        7332            6106        30.0
+          4        6940            6032        30.0
+          5        6645            5861        29.4
+          6        6607            5922        28.9
+          7        6502            6179        27.9
+          8        6308            5977        26.8
+          9        6253            5921        25.7
+         10        6094            5548        24.7
+         11        6028            5548        23.5
+         12        5986            5416        22.4
+         13        5865            5557        21.2
+         14        5830            5557        20.0
+         15        5716            5420        18.9
+         16        5667            5420        17.9
+         17        5608            5911        16.7
+         18        5575            5420        15.8
+         19        5529            5657        14.8
+         20        5630            5519        14.0
+         21        5684            5490        13.1
+         22        5552            5395        12.3
+         23        5500            5329        11.5
+         24        5405            5237        10.7
+         25        5301            5507        10.0
+         26        5319            5420         9.3
+         27        5340            5144         8.7
+         28        5279            5215         8.1
+         29        5306            5215         7.5
+         30        5246            5215         7.0
+         31        5174            5215         6.4
+         32        5085            4979         5.8
+Generate /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping_after_qp.qdelay
+Placement successful: 798 cells are placed
+Peak congestion smeared over 1/4 of the chip is 0.0495286 at 0,0
+Congestion-weighted HPWL per net: 2.65325
+
+Reading placement constraints from '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.qplace'.
+Finished Realigning Types (182 blocks needed type change)
+
+Completed placement consistency check successfully.
+Successfully created FPGA place file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.place'
+Placement took 9.96118 seconds.
+	Placement took 14.8 seconds (approximately) in total CPU time.
+Placement virtual memory usage: begin = 515.624 MB, end = 1174.38 MB, delta = 658.76 MB
+Placement resident set memory usage: begin = 87.268 MB, end = 448.396 MB, delta = 361.128 MB
+	Placement peak resident set memory usage = 2487.76 MB
+***** Ending stage placement *****
+

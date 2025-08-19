@@ -1,0 +1,220 @@
+Efinity Synthesis report for project I2C_IP_Prototyping
+Version: 2023.2.307
+Generated at: Apr 22, 2024 10:14:02
+Copyright (C) 2013 - 2023  All rights reserved.
+
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+Top-level Entity Name : top
+
+### ### File List (begin) ### ### ###
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/test_uart_rx.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx_ctrl.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v
+### ### File List (end) ### ### ###
+
+"MEM|SYN-0677" : ... Zero initialization of uninitialized memory block 'ram'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:719)
+
+### ### EFX_FF CE enables (begin) ### ### ###
+Total number of enable signals: 44
+Total number of FFs with enable signals: 165
+CE signal <uartrx/n511>, number of controlling flip flops: 1
+CE signal <ceg_net63>, number of controlling flip flops: 11
+CE signal <ceg_net592>, number of controlling flip flops: 1
+CE signal <ceg_net360>, number of controlling flip flops: 3
+CE signal <uartrx/n485>, number of controlling flip flops: 1
+CE signal <uartrx/n487>, number of controlling flip flops: 1
+CE signal <uartrx/n489>, number of controlling flip flops: 1
+CE signal <uartrx/n491>, number of controlling flip flops: 1
+CE signal <uartrx/n502>, number of controlling flip flops: 1
+CE signal <uartrx/n505>, number of controlling flip flops: 1
+CE signal <uartrx/n506>, number of controlling flip flops: 1
+CE signal <i2c_wr_fifo/u_efx_fifo_top/wr_en_int>, number of controlling flip flops: 11
+CE signal <i2c_wr_fifo/u_efx_fifo_top/rd_en_int>, number of controlling flip flops: 11
+CE signal <i2cctrl/equal_41/n9>, number of controlling flip flops: 1
+CE signal <ceg_net830>, number of controlling flip flops: 4
+CE signal <ceg_net800>, number of controlling flip flops: 2
+CE signal <ceg_net913>, number of controlling flip flops: 8
+CE signal <ceg_net387>, number of controlling flip flops: 1
+CE signal <ceg_net817>, number of controlling flip flops: 1
+CE signal <ceg_net632>, number of controlling flip flops: 1
+CE signal <ceg_net405>, number of controlling flip flops: 1
+CE signal <ceg_net915>, number of controlling flip flops: 3
+CE signal <ceg_net778>, number of controlling flip flops: 8
+CE signal <i2cmaster/n2303>, number of controlling flip flops: 1
+CE signal <ceg_net578>, number of controlling flip flops: 8
+CE signal <ceg_net822>, number of controlling flip flops: 1
+CE signal <ceg_net428>, number of controlling flip flops: 1
+CE signal <ceg_net160>, number of controlling flip flops: 2
+CE signal <i2cmaster/n2181>, number of controlling flip flops: 16
+CE signal <i2cmaster/n2241>, number of controlling flip flops: 1
+CE signal <i2cmaster/n2246>, number of controlling flip flops: 1
+CE signal <i2cmaster/n2251>, number of controlling flip flops: 1
+CE signal <i2cmaster/n2256>, number of controlling flip flops: 1
+CE signal <i2cmaster/n2261>, number of controlling flip flops: 1
+CE signal <i2cmaster/n2266>, number of controlling flip flops: 1
+CE signal <i2cmaster/n2271>, number of controlling flip flops: 1
+CE signal <i2c_rd_fifo/u_efx_fifo_top/wr_en_int>, number of controlling flip flops: 11
+CE signal <i2c_rd_fifo/u_efx_fifo_top/rd_en_int>, number of controlling flip flops: 11
+CE signal <ceg_net320>, number of controlling flip flops: 9
+CE signal <ceg_net318>, number of controlling flip flops: 1
+CE signal <uarttx/r_SM_Main[2]>, number of controlling flip flops: 10
+CE signal <ceg_net781>, number of controlling flip flops: 1
+CE signal <ceg_net590>, number of controlling flip flops: 3
+CE signal <uarttx/n501>, number of controlling flip flops: 8
+### ### EFX_FF CE enables (end) ### ### ###
+
+### ### EFX_FF SR set/reset (begin) ### ### ###
+Total number of set/reset signals: 9
+Total number of FFs with set/reset signals: 154
+SR signal <uartrx/r_SM_Main[2]>, number of controlling flip flops: 2
+SR signal <uartrx/n481>, number of controlling flip flops: 1
+SR signal <i2c_wr_fifo/u_efx_fifo_top/genblk2.wr_rst[1]>, number of controlling flip flops: 33
+SR signal <i2c_wr_fifo/u_efx_fifo_top/genblk2.rd_rst[1]>, number of controlling flip flops: 33
+SR signal <i2cmaster/equal_19/n31>, number of controlling flip flops: 16
+SR signal <i2c_rd_fifo/u_efx_fifo_top/genblk2.wr_rst[1]>, number of controlling flip flops: 33
+SR signal <i2c_rd_fifo/u_efx_fifo_top/genblk2.rd_rst[1]>, number of controlling flip flops: 33
+SR signal <uarttx/r_SM_Main[2]>, number of controlling flip flops: 2
+SR signal <uarttx/n483>, number of controlling flip flops: 1
+### ### EFX_FF SR set/reset (end) ### ### ###
+
+### ### Sequential Elements Trimming Report (begin) ### ### ### 
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v (381)" removed instance : i2cmaster/dff_234/i1
+@ "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v (381)" representative instance : i2cmaster/i237
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v (186)" removed instance : i2cctrl/count[7]~FF_brt_33
+@ "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v (186)" representative instance : i2cctrl/count[0]~FF_brt_12
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v (186)" removed instance : i2cctrl/count[5]~FF_brt_31
+@ "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v (186)" representative instance : i2cctrl/count[0]~FF_brt_12
+FF Output: i2cmaster/post_state[1](=0)
+FF instance: i2cctrl/post_hold_state[1]~FF_brt_16(unreachable)
+FF instance: i2cctrl/post_hold_state[1]~FF_brt_14(unreachable)
+### ### Sequential Elements Trimming Report (end) ### ### ### 
+
+### ### Module Resource Usage Distribution Estimates (begin) ### ###
+
+**Note: some resources maybe grouped under different hierarchy due to optimization and LUT mapping
+
+Module                                                               FFs        ADDs        LUTs      RAMs DSP/MULTs
+------------------------------------------------------------         ---        ----        ----      ---- ---------
+top:top                                                           462(0)       81(0)      539(0)      4(0)      0(0)
+ +uartrx:uart_rx                                                  28(28)        0(0)      60(60)      0(0)      0(0)
+ +i2c_wr_fifo:I2C_FIFO                                            114(0)       33(0)       53(0)      2(0)      0(0)
+  +u_efx_fifo_top:efx_fifo_top_a51c96a95f424469b7da29b246...      114(4)       33(0)       53(0)      2(0)      0(0)
+   +xefx_fifo_ram:efx_fifo_ram_a51c96a95f424469b7da29b246...        0(0)        0(0)        0(0)      2(2)      0(0)
+   +xefx_fifo_ctl:efx_fifo_ctl_a51c96a95f424469b7da29b246...     110(66)      33(33)      53(13)      0(0)      0(0)
+    +genblk7.xrd2wr_bin2gray:efx_fifo_bin2gray_a51c96a95f...        0(0)        0(0)      10(10)      0(0)      0(0)
+    +genblk7.xrd2wr_addr_sync:efx_fifo_datasync_a51c96a95...      22(22)        0(0)        0(0)      0(0)      0(0)
+    +genblk7.xrd2wr_gray2bin:efx_fifo_gray2bin_a51c96a95f...        0(0)        0(0)       10(1)      0(0)      0(0)
+     +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c96...        0(0)        0(0)        9(1)      0(0)      0(0)
+      +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c9...        0(0)        0(0)        8(1)      0(0)      0(0)
+       +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c...        0(0)        0(0)        7(1)      0(0)      0(0)
+        +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51...        0(0)        0(0)        6(1)      0(0)      0(0)
+         +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a5...        0(0)        0(0)        5(1)      0(0)      0(0)
+          +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a...        0(0)        0(0)        4(1)      0(0)      0(0)
+           +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_...        0(0)        0(0)        3(1)      0(0)      0(0)
+            +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin...        0(0)        0(0)        2(1)      0(0)      0(0)
+             +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bi...        0(0)        0(0)        1(1)      0(0)      0(0)
+    +genblk7.wr2rd_bin2gray:efx_fifo_bin2gray_a51c96a95f4...        0(0)        0(0)      10(10)      0(0)      0(0)
+    +genblk7.wr2rd_addr_sync:efx_fifo_datasync_a51c96a95f...      22(22)        0(0)        0(0)      0(0)      0(0)
+    +genblk7.wr2rd_gray2bin:efx_fifo_gray2bin_a51c96a95f4...        0(0)        0(0)       10(1)      0(0)      0(0)
+     +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c96...        0(0)        0(0)        9(1)      0(0)      0(0)
+      +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c9...        0(0)        0(0)        8(1)      0(0)      0(0)
+       +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c...        0(0)        0(0)        7(1)      0(0)      0(0)
+        +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51...        0(0)        0(0)        6(1)      0(0)      0(0)
+         +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a5...        0(0)        0(0)        5(1)      0(0)      0(0)
+          +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a...        0(0)        0(0)        4(1)      0(0)      0(0)
+           +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_...        0(0)        0(0)        3(1)      0(0)      0(0)
+            +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin...        0(0)        0(0)        2(1)      0(0)      0(0)
+             +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bi...        0(0)        0(0)        1(1)      0(0)      0(0)
+ +i2cctrl:i2c_ctrl                                                88(88)        0(0)    127(127)      0(0)      0(0)
+ +i2cmaster:i2c_master                                            81(81)      15(15)    198(198)      0(0)      0(0)
+ +i2c_rd_fifo:I2C_FIFO                                            114(0)       33(0)       53(0)      2(0)      0(0)
+  +u_efx_fifo_top:efx_fifo_top_a51c96a95f424469b7da29b246...      114(4)       33(0)       53(0)      2(0)      0(0)
+   +xefx_fifo_ram:efx_fifo_ram_a51c96a95f424469b7da29b246...        0(0)        0(0)        0(0)      2(2)      0(0)
+   +xefx_fifo_ctl:efx_fifo_ctl_a51c96a95f424469b7da29b246...     110(66)      33(33)      53(13)      0(0)      0(0)
+    +genblk7.xrd2wr_bin2gray:efx_fifo_bin2gray_a51c96a95f...        0(0)        0(0)      10(10)      0(0)      0(0)
+    +genblk7.xrd2wr_addr_sync:efx_fifo_datasync_a51c96a95...      22(22)        0(0)        0(0)      0(0)      0(0)
+    +genblk7.xrd2wr_gray2bin:efx_fifo_gray2bin_a51c96a95f...        0(0)        0(0)       10(1)      0(0)      0(0)
+     +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c96...        0(0)        0(0)        9(1)      0(0)      0(0)
+      +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c9...        0(0)        0(0)        8(1)      0(0)      0(0)
+       +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c...        0(0)        0(0)        7(1)      0(0)      0(0)
+        +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51...        0(0)        0(0)        6(1)      0(0)      0(0)
+         +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a5...        0(0)        0(0)        5(1)      0(0)      0(0)
+          +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a...        0(0)        0(0)        4(1)      0(0)      0(0)
+           +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_...        0(0)        0(0)        3(1)      0(0)      0(0)
+            +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin...        0(0)        0(0)        2(1)      0(0)      0(0)
+             +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bi...        0(0)        0(0)        1(1)      0(0)      0(0)
+    +genblk7.wr2rd_bin2gray:efx_fifo_bin2gray_a51c96a95f4...        0(0)        0(0)      10(10)      0(0)      0(0)
+    +genblk7.wr2rd_addr_sync:efx_fifo_datasync_a51c96a95f...      22(22)        0(0)        0(0)      0(0)      0(0)
+    +genblk7.wr2rd_gray2bin:efx_fifo_gray2bin_a51c96a95f4...        0(0)        0(0)       10(1)      0(0)      0(0)
+     +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c96...        0(0)        0(0)        9(1)      0(0)      0(0)
+      +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c9...        0(0)        0(0)        8(1)      0(0)      0(0)
+       +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51c...        0(0)        0(0)        7(1)      0(0)      0(0)
+        +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a51...        0(0)        0(0)        6(1)      0(0)      0(0)
+         +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a5...        0(0)        0(0)        5(1)      0(0)      0(0)
+          +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_a...        0(0)        0(0)        4(1)      0(0)      0(0)
+           +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin_...        0(0)        0(0)        3(1)      0(0)      0(0)
+            +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bin...        0(0)        0(0)        2(1)      0(0)      0(0)
+             +genblk1.genblk1.u_gray2bin:efx_fifo_gray2bi...        0(0)        0(0)        1(1)      0(0)      0(0)
+ +i5:uart_tx_ctrl                                                 12(12)        0(0)      13(13)      0(0)      0(0)
+ +uarttx:uart_tx(CLKS_PER_BIT=435)                                25(25)        0(0)      35(35)      0(0)      0(0)
+
+### ### Module Resource Usage Distribution Estimates (end) ### ###
+
+
+### ### Clock Load Distribution Report (begin) ### ###
+
+ Clock     Flip-Flops   Memory Ports    Multipliers
+ -----     ----------   ------------    -----------
+   clk            462              8              0
+
+### ### Clock Load Distribution Report (end) ### ###
+
+### ### EFX Flow Options (begin) ### ### ###
+
+family : Trion
+device : T120F324
+project : I2C_IP_Prototyping
+project-xml : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/I2C_IP_Prototyping.xml
+root : top
+I,include : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping
+I,include : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master
+I,include : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO
+I,include : ip/I2C_FIFO
+output-dir : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow
+work-dir : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/work_syn
+write-efx-verilog : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.map.v
+binary-db : /home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.vdb
+insert-ios : 0
+max-carry-cascade : 640
+max_mult : -1
+max_ram : -1
+mode : speed
+veri_options : verilog_mode=verilog_2k,vhdl_mode=vhdl_2008
+
+### ### EFX Flow Options (end) ### ### ###
+
+### ### Resource Summary (begin) ### ### ### 
+INPUT  PORTS    : 	4
+OUTPUT PORTS    : 	6
+
+EFX_ADD         : 	81
+EFX_LUT4        : 	539
+   1-2  Inputs  : 	155
+   3    Inputs  : 	132
+   4    Inputs  : 	252
+EFX_FF          : 	462
+EFX_RAM_5K      : 	4
+EFX_GBUFCE      : 	1
+### ### Resource Summary (end) ### ### ###
+
+Plain synthesis (without verilog dump and post-map checks) time : 13s
+Elapsed synthesis time : 13s

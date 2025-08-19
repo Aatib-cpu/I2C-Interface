@@ -1,0 +1,38 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2023.2.307 
+Date: Mon Apr 22 10:14:41 2024
+
+Copyright (C) 2013 - 2023 Efinix, Inc. All rights reserved.
+ 
+Family: Trion 
+Device: T120F324
+Top-level Entity Name: I2C_IP_Prototyping
+Elapsed time for packing: 0 hours 0 minutes 0 seconds
+
+---------- Resource Summary (begin) ----------
+Inputs: 4 / 1076 (0.37%)
+Outputs: 6 / 1566 (0.38%)
+Clocks: 1 / 16 (6.25%)
+Logic Elements: 794 / 112128 (0.71%)
+	LE: LUTs/Adders: 622 / 112128 (0.55%)
+	LE: Registers: 462 / 107520 (0.43%)
+Memory Blocks: 4 / 1056 (0.38%)
+Multipliers: 0 / 320 (0.00%)
+---------- Resource Summary (end) ----------
+
+
+---------- Memory Block Information (begin) ----------
+
++---------------------------------------------------+------+------------+-------------+------------+------------+
+|                       NAME                        | MODE | READ_WIDTH | WRITE_WIDTH | WRITE_MODE | OUTPUT_REG |
++---------------------------------------------------+------+------------+-------------+------------+------------+
+| i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$2 | SDP  |     4      |      4      | READ_FIRST |   false    |
+| i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$1 | SDP  |     4      |      4      | READ_FIRST |   false    |
+| i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$2 | SDP  |     4      |      4      | READ_FIRST |   false    |
+| i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$1 | SDP  |     4      |      4      | READ_FIRST |   false    |
++---------------------------------------------------+------+------------+-------------+------------+------------+
+
+----------- Memory Block Information (end) ----------
+
+Elapsed time for placement: 0 hours 0 minutes 9 seconds

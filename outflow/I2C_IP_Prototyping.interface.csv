@@ -1,0 +1,19 @@
+
+# Efinity Interface Configuration
+# Version: 2023.2.307
+# Date: 2024-04-22 10:14
+
+# Copyright (C) 2013 - 2023 Efinix Inc. All rights reserved.
+
+# [required | optional] (input|output|clkout), x, y, z, __bypass__|[~|!]<clock>, [[~|!]<pin_name>] | __vcc__ | __gnd__
+input, 338, 321, 1, __bypass__, clk
+optional input, 338, 9, 1, __bypass__, clk_pll
+input, 0, 283, 1, __bypass__, i_rx_serial
+output, 322, 643, 0, __bypass__, led
+output, 0, 274, 0, __bypass__, o_tx_serial
+input, 338, 378, 1, __bypass__, scl_in
+output, 338, 377, 2, __bypass__, scl_oe
+output, 338, 378, 0, __bypass__, scl_out
+input, 338, 370, 1, __bypass__, sda_in
+output, 338, 369, 2, __bypass__, sda_oe
+output, 338, 370, 0, __bypass__, sda_out

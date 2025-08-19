@@ -1,0 +1,12 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2023.2.307 
+Date: Mon Apr 22 10:14:52 2024
+
+Copyright (C) 2013 - 2023 Efinix, Inc. All rights reserved.
+ 
+Family: Trion 
+Device: T120F324
+Top-level Entity Name: I2C_IP_Prototyping
+Elapsed time for routing: 0 hours 0 minutes 9 seconds
+Elapsed time for entire flow: 0 hours 1 minutes 16 seconds

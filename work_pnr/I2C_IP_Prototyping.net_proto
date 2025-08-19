@@ -1,0 +1,2814 @@
+
+N
+uartrx/r_Rx_Data~FFeftlogic"+
+uartrx/r_Rx_Data~FFeft(0)/ff(0)"EFX_FF
+
+uartrx/r_SM_Main[1]~FFeftlogic".
+uartrx/r_SM_Main[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1852eft(0)/lut4(0)/lut(1)"names
+T
+uartrx/r_Rx_Byte[0]~FFeftlogic".
+uartrx/r_Rx_Byte[0]~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_SM_Main[2]~FFeftlogic".
+uartrx/r_SM_Main[2]~FFeft(0)/ff(0)"EFX_FF
+‡
+uartrx/r_Clock_Count[0]~FFeftlogic"2
+uartrx/r_Clock_Count[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1860eft(0)/lut4(0)/lut(1)"names
+g
+
+w_rx_dv~FFeftlogic""
+
+w_rx_dv~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1853eft(0)/lut4(0)/lut(1)"names
+ƒ
+uartrx/r_Bit_Index[1]~FFeftlogic"0
+uartrx/r_Bit_Index[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1863eft(0)/lut4(0)/lut(1)"names
+ƒ
+uartrx/r_Bit_Index[0]~FFeftlogic"0
+uartrx/r_Bit_Index[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1865eft(0)/lut4(0)/lut(1)"names
+
+uartrx/r_SM_Main[0]~FFeftlogic".
+uartrx/r_SM_Main[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1870eft(0)/lut4(0)/lut(1)"names
+R
+uartrx/r_Rx_Data_R~FFeftlogic"-
+uartrx/r_Rx_Data_R~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_Rx_Byte[1]~FFeftlogic".
+uartrx/r_Rx_Byte[1]~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_Rx_Byte[2]~FFeftlogic".
+uartrx/r_Rx_Byte[2]~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_Rx_Byte[3]~FFeftlogic".
+uartrx/r_Rx_Byte[3]~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_Rx_Byte[4]~FFeftlogic".
+uartrx/r_Rx_Byte[4]~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_Rx_Byte[5]~FFeftlogic".
+uartrx/r_Rx_Byte[5]~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_Rx_Byte[6]~FFeftlogic".
+uartrx/r_Rx_Byte[6]~FFeft(0)/ff(0)"EFX_FF
+T
+uartrx/r_Rx_Byte[7]~FFeftlogic".
+uartrx/r_Rx_Byte[7]~FFeft(0)/ff(0)"EFX_FF
+‡
+uartrx/r_Clock_Count[1]~FFeftlogic"2
+uartrx/r_Clock_Count[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1879eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[2]~FFeftlogic"2
+uartrx/r_Clock_Count[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1881eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[3]~FFeftlogic"2
+uartrx/r_Clock_Count[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1882eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[4]~FFeftlogic"2
+uartrx/r_Clock_Count[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1884eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[5]~FFeftlogic"2
+uartrx/r_Clock_Count[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1885eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[6]~FFeftlogic"2
+uartrx/r_Clock_Count[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1886eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[7]~FFeftlogic"2
+uartrx/r_Clock_Count[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1888eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[8]~FFeftlogic"2
+uartrx/r_Clock_Count[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1889eft(0)/lut4(0)/lut(1)"names
+‡
+uartrx/r_Clock_Count[9]~FFeftlogic"2
+uartrx/r_Clock_Count[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1890eft(0)/lut4(0)/lut(1)"names
+‰
+uartrx/r_Clock_Count[10]~FFeftlogic"3
+uartrx/r_Clock_Count[10]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1892eft(0)/lut4(0)/lut(1)"names
+ƒ
+uartrx/r_Bit_Index[2]~FFeftlogic"0
+uartrx/r_Bit_Index[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1893eft(0)/lut4(0)/lut(1)"names
+†
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.rd_rst[1]~FFeftlogic"G
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.rd_rst[1]~FFeft(0)/ff(0)"EFX_FF
+†
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.rd_rst[0]~FFeftlogic"G
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.rd_rst[0]~FFeft(0)/ff(0)"EFX_FF
+†
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.wr_rst[0]~FFeftlogic"G
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.wr_rst[0]~FFeft(0)/ff(0)"EFX_FF
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[1]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[1]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i1eft(0)/adder(1)"EFX_ADD
+t
+&i2c_wr_fifo/u_efx_fifo_top/waddr[0]~FFeftlogic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[0]~FFeft(0)/ff(0)"EFX_FF
+t
+&i2c_wr_fifo/u_efx_fifo_top/raddr[0]~FFeftlogic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[0]~FFeft(0)/ff(0)"EFX_FF
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[0]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1915eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[0]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1920eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[0]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1921eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[0]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1922eft(0)/lut4(0)/lut(1)"names
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[2]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[2]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i2eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[3]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[3]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i3eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[4]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[4]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i4eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[5]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[5]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i5eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[6]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[6]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i6eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[7]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[7]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i7eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[8]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[8]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i8eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/waddr[9]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/waddr[9]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i9eft(0)/adder(1)"EFX_ADD
+ò
+:i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/waddr_cntr[10]~FFeft
+arithmetic"R
+:i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/waddr_cntr[10]~FFeft(0)/ff(1)"EFX_FF"O
+3i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i10eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[1]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[1]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i1eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[2]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[2]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i2eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[3]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[3]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i3eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[4]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[4]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i4eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[5]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[5]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i5eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[6]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[6]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i6eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[7]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[7]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i7eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[8]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[8]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i8eft(0)/adder(1)"EFX_ADD
+É
+&i2c_wr_fifo/u_efx_fifo_top/raddr[9]~FFeft
+arithmetic">
+&i2c_wr_fifo/u_efx_fifo_top/raddr[9]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i9eft(0)/adder(1)"EFX_ADD
+ò
+:i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/raddr_cntr[10]~FFeft
+arithmetic"R
+:i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/raddr_cntr[10]~FFeft(0)/ff(1)"EFX_FF"O
+3i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i10eft(0)/adder(1)"EFX_ADD
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[1]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1923eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[2]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1924eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[3]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1914eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[4]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1926eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[5]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1925eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[6]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1913eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[7]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1927eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[8]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1912eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[9]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1911eft(0)/lut4(0)/lut(1)"names
+Ò
+Ui2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[10]~FFeftlogic"m
+Ui2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[10]~FFeft(0)/ff(0)"EFX_FF
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[1]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1928eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[2]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1929eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[3]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1919eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[4]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1930eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[5]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1918eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[6]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1931eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[7]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1917eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[8]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1932eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[9]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1916eft(0)/lut4(0)/lut(1)"names
+Ò
+Ui2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[10]~FFeftlogic"m
+Ui2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[10]~FFeft(0)/ff(0)"EFX_FF
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[1]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1933eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[2]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1934eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[3]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1935eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[4]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1936eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[5]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1937eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[6]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1938eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[7]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1939eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[8]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1940eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[9]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1941eft(0)/lut4(0)/lut(1)"names
+¸
+Hi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[10]~FFeftlogic"`
+Hi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[10]~FFeft(0)/ff(0)"EFX_FF
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[1]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1942eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[2]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1943eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[3]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1944eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[4]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1945eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[5]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1946eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[6]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1947eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[7]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1948eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[8]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1949eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[9]~FFeftlogic"_
+Gi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1950eft(0)/lut4(0)/lut(1)"names
+¸
+Hi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[10]~FFeftlogic"`
+Hi2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[10]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][5]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][5]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][4]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][4]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][3]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][3]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][2]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][2]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][6]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][6]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][0]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][0]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][1]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][1]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][7]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][7]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][8]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][8]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][9]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][9]~FFeft(0)/ff(0)"EFX_FF
+Ð
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][10]~FFeftlogic"l
+Ti2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][10]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[0]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[0]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[1]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[1]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[2]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[2]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[3]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[3]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[4]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[4]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[5]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[5]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[6]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[6]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[7]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[7]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[8]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[8]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[9]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[9]~FFeft(0)/ff(0)"EFX_FF
+¾
+Ki2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[10]~FFeftlogic"c
+Ki2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[10]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][5]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][5]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][4]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][4]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][3]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][3]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][2]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][2]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][6]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][6]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][0]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][0]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][1]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][1]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][7]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][7]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][8]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][8]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][9]~FFeftlogic"j
+Ri2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][9]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][10]~FFeftlogic"k
+Si2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][10]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[0]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[0]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[1]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[1]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[2]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[2]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[3]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[3]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[4]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[4]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[5]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[5]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[6]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[6]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[7]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[7]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[8]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[8]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[9]~FFeftlogic"b
+Ji2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[9]~FFeft(0)/ff(0)"EFX_FF
+¾
+Ki2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[10]~FFeftlogic"c
+Ki2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[10]~FFeft(0)/ff(0)"EFX_FF
+†
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.wr_rst[1]~FFeftlogic"G
+/i2c_wr_fifo/u_efx_fifo_top/genblk2.wr_rst[1]~FFeft(0)/ff(0)"EFX_FF
+{
+w_i2c_slv_addr[0]~FFeftlogic",
+w_i2c_slv_addr[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1953eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[0]~FFeftlogic"(
+w_num_byte[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1956eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[0]~FFeftlogic"(
+w_i2c_data[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1959eft(0)/lut4(0)/lut(1)"names
+‡
+i2cctrl/count[0]~FF_brt_12eftlogic"2
+i2cctrl/count[0]~FF_brt_12eft(0)/ff(0)"EFX_FF")
+	LUT__1993eft(0)/lut4(0)/lut(1)"names
+‰
+w_fifo_wr_data[0]~FF_brt_46eftlogic"3
+w_fifo_wr_data[0]~FF_brt_46eft(0)/ff(0)"EFX_FF")
+	LUT__2004eft(0)/lut4(0)/lut(1)"names
+6
+w_rw~FFeftlogic"
+w_rw~FFeft(0)/ff(0)"EFX_FF
+i
+w_enable~FFeftlogic"#
+w_enable~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1998eft(0)/lut4(0)/lut(1)"names
+q
+w_fifo_wr_en~FFeftlogic"'
+w_fifo_wr_en~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2006eft(0)/lut4(0)/lut(1)"names
+“
+ i2cctrl/state[0]~FF_brt_6_brt_44eftlogic"8
+ i2cctrl/state[0]~FF_brt_6_brt_44eft(0)/ff(0)"EFX_FF")
+	LUT__1975eft(0)/lut4(0)/lut(1)"names
+{
+w_i2c_slv_addr[1]~FFeftlogic",
+w_i2c_slv_addr[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2009eft(0)/lut4(0)/lut(1)"names
+{
+w_i2c_slv_addr[2]~FFeftlogic",
+w_i2c_slv_addr[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2010eft(0)/lut4(0)/lut(1)"names
+{
+w_i2c_slv_addr[3]~FFeftlogic",
+w_i2c_slv_addr[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2011eft(0)/lut4(0)/lut(1)"names
+{
+w_i2c_slv_addr[4]~FFeftlogic",
+w_i2c_slv_addr[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2012eft(0)/lut4(0)/lut(1)"names
+{
+w_i2c_slv_addr[5]~FFeftlogic",
+w_i2c_slv_addr[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2013eft(0)/lut4(0)/lut(1)"names
+{
+w_i2c_slv_addr[6]~FFeftlogic",
+w_i2c_slv_addr[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2014eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[1]~FFeftlogic"(
+w_num_byte[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2015eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[2]~FFeftlogic"(
+w_num_byte[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2016eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[3]~FFeftlogic"(
+w_num_byte[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2017eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[4]~FFeftlogic"(
+w_num_byte[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2018eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[5]~FFeftlogic"(
+w_num_byte[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2019eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[6]~FFeftlogic"(
+w_num_byte[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2020eft(0)/lut4(0)/lut(1)"names
+s
+w_num_byte[7]~FFeftlogic"(
+w_num_byte[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2021eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[1]~FFeftlogic"(
+w_i2c_data[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2022eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[2]~FFeftlogic"(
+w_i2c_data[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2023eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[3]~FFeftlogic"(
+w_i2c_data[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2024eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[4]~FFeftlogic"(
+w_i2c_data[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2025eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[5]~FFeftlogic"(
+w_i2c_data[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2026eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[6]~FFeftlogic"(
+w_i2c_data[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2027eft(0)/lut4(0)/lut(1)"names
+s
+w_i2c_data[7]~FFeftlogic"(
+w_i2c_data[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2028eft(0)/lut4(0)/lut(1)"names
+“
+ i2cctrl/state[0]~FF_brt_6_brt_45eftlogic"8
+ i2cctrl/state[0]~FF_brt_6_brt_45eft(0)/ff(0)"EFX_FF")
+	LUT__1986eft(0)/lut4(0)/lut(1)"names
+“
+ i2cctrl/state[1]~FF_brt_3_brt_42eftlogic"8
+ i2cctrl/state[1]~FF_brt_3_brt_42eft(0)/ff(0)"EFX_FF")
+	LUT__2041eft(0)/lut4(0)/lut(1)"names
+“
+ i2cctrl/state[1]~FF_brt_3_brt_41eftlogic"8
+ i2cctrl/state[1]~FF_brt_3_brt_41eft(0)/ff(0)"EFX_FF")
+	LUT__2039eft(0)/lut4(0)/lut(1)"names
+Z
+i2cctrl/state[0]~FF_brt_4eftlogic"1
+i2cctrl/state[0]~FF_brt_4eft(0)/ff(0)"EFX_FF
+y
+i2cctrl/state[2]~FFeftlogic"+
+i2cctrl/state[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2043eft(0)/lut4(0)/lut(1)"names
+y
+i2cctrl/state[3]~FFeftlogic"+
+i2cctrl/state[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2045eft(0)/lut4(0)/lut(1)"names
+“
+ i2cctrl/state[1]~FF_brt_3_brt_40eftlogic"8
+ i2cctrl/state[1]~FF_brt_3_brt_40eft(0)/ff(0)"EFX_FF")
+	LUT__2038eft(0)/lut4(0)/lut(1)"names
+“
+ i2cctrl/state[1]~FF_brt_3_brt_39eftlogic"8
+ i2cctrl/state[1]~FF_brt_3_brt_39eft(0)/ff(0)"EFX_FF")
+	LUT__2037eft(0)/lut4(0)/lut(1)"names
+
+w1_fifo_rd_en~FF_brt_38eftlogic"/
+w1_fifo_rd_en~FF_brt_38eft(0)/ff(0)"EFX_FF")
+	LUT__2007eft(0)/lut4(0)/lut(1)"names
+V
+w1_fifo_rd_en~FF_brt_37eftlogic"/
+w1_fifo_rd_en~FF_brt_37eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[0]~FF_brt_11eftlogic"2
+i2cctrl/count[0]~FF_brt_11eft(0)/ff(0)"EFX_FF")
+	LUT__1994eft(0)/lut4(0)/lut(1)"names
+V
+w1_fifo_rd_en~FF_brt_36eftlogic"/
+w1_fifo_rd_en~FF_brt_36eft(0)/ff(0)"EFX_FF
+h
+ i2cctrl/count[6]~FF_brt_9_brt_67eftlogic"8
+ i2cctrl/count[6]~FF_brt_9_brt_67eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[3]~FF_brt_66eftlogic"2
+i2cctrl/count[3]~FF_brt_66eft(0)/ff(0)"EFX_FF")
+	LUT__2053eft(0)/lut4(0)/lut(1)"names
+‡
+i2cctrl/count[3]~FF_brt_65eftlogic"2
+i2cctrl/count[3]~FF_brt_65eft(0)/ff(0)"EFX_FF")
+	LUT__2052eft(0)/lut4(0)/lut(1)"names
+§
+*i2cctrl/post_wait_state[0]~FF_brt_7_brt_64eftlogic"B
+*i2cctrl/post_wait_state[0]~FF_brt_7_brt_64eft(0)/ff(0)"EFX_FF")
+	LUT__1974eft(0)/lut4(0)/lut(1)"names
+§
+*i2cctrl/post_wait_state[0]~FF_brt_7_brt_63eftlogic"B
+*i2cctrl/post_wait_state[0]~FF_brt_7_brt_63eft(0)/ff(0)"EFX_FF")
+	LUT__1971eft(0)/lut4(0)/lut(1)"names
+}
+i2cmaster/state[0]~FFeftlogic"-
+i2cmaster/state[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2120eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/proc_counter[0]~FFeftlogic"4
+i2cmaster/proc_counter[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2131eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[0]~FFeftlogic"3
+i2cmaster/bit_counter[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2136eft(0)/lut4(0)/lut(1)"names
+g
+
+scl_out~FFeftlogic""
+
+scl_out~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2144eft(0)/lut4(0)/lut(1)"names
+g
+
+sda_out~FFeftlogic""
+
+sda_out~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2171eft(0)/lut4(0)/lut(1)"names
+…
+i2cmaster/ack_received~FFeftlogic"1
+i2cmaster/ack_received~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2178eft(0)/lut4(0)/lut(1)"names
+h
+ i2cmaster/flag_data_valid_out~FFeftlogic"8
+ i2cmaster/flag_data_valid_out~FFeft(0)/ff(0)"EFX_FF
+‡
+i2cmaster/post_state[0]~FFeftlogic"2
+i2cmaster/post_state[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2185eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[0]~FFeftlogic"4
+i2cmaster/byte_counter[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2192eft(0)/lut4(0)/lut(1)"names
+H
+w_data_out[0]~FFeftlogic"(
+w_data_out[0]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[0]~FFeftlogic"7
+i2cmaster/saved_mosi_data[0]~FFeft(0)/ff(0)"EFX_FF
+i
+w_en_ack~FFeftlogic"#
+w_en_ack~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2201eft(0)/lut4(0)/lut(1)"names
+…
+i2cmaster/post_sda_out~FFeftlogic"1
+i2cmaster/post_sda_out~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2206eft(0)/lut4(0)/lut(1)"names
+B
+w_i2c_busy~FFeftlogic"%
+w_i2c_busy~FFeft(0)/ff(0)"EFX_FF
+y
+i2cmaster/enable~FFeftlogic"+
+i2cmaster/enable~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2209eft(0)/lut4(0)/lut(1)"names
+d
+i2cmaster/saved_num_byte[0]~FFeftlogic"6
+i2cmaster/saved_num_byte[0]~FFeft(0)/ff(0)"EFX_FF
+F
+i2cmaster/rw~FFeftlogic"'
+i2cmaster/rw~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/divider_counter[0]~FFeftlogic"7
+i2cmaster/divider_counter[0]~FFeft(0)/ff(0)"EFX_FF
+}
+i2cmaster/state[1]~FFeftlogic"-
+i2cmaster/state[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2212eft(0)/lut4(0)/lut(1)"names
+}
+i2cmaster/state[2]~FFeftlogic"-
+i2cmaster/state[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2217eft(0)/lut4(0)/lut(1)"names
+}
+i2cmaster/state[3]~FFeftlogic"-
+i2cmaster/state[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2222eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/proc_counter[1]~FFeftlogic"4
+i2cmaster/proc_counter[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2225eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[1]~FFeftlogic"3
+i2cmaster/bit_counter[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2228eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[2]~FFeftlogic"3
+i2cmaster/bit_counter[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2231eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[3]~FFeftlogic"3
+i2cmaster/bit_counter[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2237eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[4]~FFeftlogic"3
+i2cmaster/bit_counter[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2240eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[5]~FFeftlogic"3
+i2cmaster/bit_counter[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2243eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[6]~FFeftlogic"3
+i2cmaster/bit_counter[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2246eft(0)/lut4(0)/lut(1)"names
+‰
+i2cmaster/bit_counter[7]~FFeftlogic"3
+i2cmaster/bit_counter[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2249eft(0)/lut4(0)/lut(1)"names
+\
+i2cmaster/post_state[2]~FFeftlogic"2
+i2cmaster/post_state[2]~FFeft(0)/ff(0)"EFX_FF
+‡
+i2cmaster/post_state[3]~FFeftlogic"2
+i2cmaster/post_state[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2250eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[1]~FFeftlogic"4
+i2cmaster/byte_counter[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2251eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[2]~FFeftlogic"4
+i2cmaster/byte_counter[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2253eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[3]~FFeftlogic"4
+i2cmaster/byte_counter[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2255eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[4]~FFeftlogic"4
+i2cmaster/byte_counter[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2257eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[5]~FFeftlogic"4
+i2cmaster/byte_counter[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2259eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[6]~FFeftlogic"4
+i2cmaster/byte_counter[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2260eft(0)/lut4(0)/lut(1)"names
+‹
+i2cmaster/byte_counter[7]~FFeftlogic"4
+i2cmaster/byte_counter[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2262eft(0)/lut4(0)/lut(1)"names
+H
+w_data_out[1]~FFeftlogic"(
+w_data_out[1]~FFeft(0)/ff(0)"EFX_FF
+H
+w_data_out[2]~FFeftlogic"(
+w_data_out[2]~FFeft(0)/ff(0)"EFX_FF
+H
+w_data_out[3]~FFeftlogic"(
+w_data_out[3]~FFeft(0)/ff(0)"EFX_FF
+H
+w_data_out[4]~FFeftlogic"(
+w_data_out[4]~FFeft(0)/ff(0)"EFX_FF
+H
+w_data_out[5]~FFeftlogic"(
+w_data_out[5]~FFeft(0)/ff(0)"EFX_FF
+H
+w_data_out[6]~FFeftlogic"(
+w_data_out[6]~FFeft(0)/ff(0)"EFX_FF
+H
+w_data_out[7]~FFeftlogic"(
+w_data_out[7]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[1]~FFeftlogic"7
+i2cmaster/saved_mosi_data[1]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[2]~FFeftlogic"7
+i2cmaster/saved_mosi_data[2]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[3]~FFeftlogic"7
+i2cmaster/saved_mosi_data[3]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[4]~FFeftlogic"7
+i2cmaster/saved_mosi_data[4]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[5]~FFeftlogic"7
+i2cmaster/saved_mosi_data[5]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[6]~FFeftlogic"7
+i2cmaster/saved_mosi_data[6]~FFeft(0)/ff(0)"EFX_FF
+f
+i2cmaster/saved_mosi_data[7]~FFeftlogic"7
+i2cmaster/saved_mosi_data[7]~FFeft(0)/ff(0)"EFX_FF
+j
+!i2cmaster/saved_device_addr[1]~FFeftlogic"9
+!i2cmaster/saved_device_addr[1]~FFeft(0)/ff(0)"EFX_FF
+j
+!i2cmaster/saved_device_addr[2]~FFeftlogic"9
+!i2cmaster/saved_device_addr[2]~FFeft(0)/ff(0)"EFX_FF
+j
+!i2cmaster/saved_device_addr[3]~FFeftlogic"9
+!i2cmaster/saved_device_addr[3]~FFeft(0)/ff(0)"EFX_FF
+j
+!i2cmaster/saved_device_addr[4]~FFeftlogic"9
+!i2cmaster/saved_device_addr[4]~FFeft(0)/ff(0)"EFX_FF
+j
+!i2cmaster/saved_device_addr[5]~FFeftlogic"9
+!i2cmaster/saved_device_addr[5]~FFeft(0)/ff(0)"EFX_FF
+j
+!i2cmaster/saved_device_addr[6]~FFeftlogic"9
+!i2cmaster/saved_device_addr[6]~FFeft(0)/ff(0)"EFX_FF
+j
+!i2cmaster/saved_device_addr[7]~FFeftlogic"9
+!i2cmaster/saved_device_addr[7]~FFeft(0)/ff(0)"EFX_FF
+d
+i2cmaster/saved_num_byte[1]~FFeftlogic"6
+i2cmaster/saved_num_byte[1]~FFeft(0)/ff(0)"EFX_FF
+d
+i2cmaster/saved_num_byte[2]~FFeftlogic"6
+i2cmaster/saved_num_byte[2]~FFeft(0)/ff(0)"EFX_FF
+d
+i2cmaster/saved_num_byte[3]~FFeftlogic"6
+i2cmaster/saved_num_byte[3]~FFeft(0)/ff(0)"EFX_FF
+d
+i2cmaster/saved_num_byte[4]~FFeftlogic"6
+i2cmaster/saved_num_byte[4]~FFeft(0)/ff(0)"EFX_FF
+d
+i2cmaster/saved_num_byte[5]~FFeftlogic"6
+i2cmaster/saved_num_byte[5]~FFeft(0)/ff(0)"EFX_FF
+d
+i2cmaster/saved_num_byte[6]~FFeftlogic"6
+i2cmaster/saved_num_byte[6]~FFeft(0)/ff(0)"EFX_FF
+d
+i2cmaster/saved_num_byte[7]~FFeftlogic"6
+i2cmaster/saved_num_byte[7]~FFeft(0)/ff(0)"EFX_FF
+
+i2cmaster/divider_counter[1]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[1]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i1eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[2]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[2]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i2eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[3]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[3]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i3eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[4]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[4]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i4eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[5]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[5]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i5eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[6]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[6]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i6eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[7]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[7]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i7eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[8]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[8]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i8eft(0)/adder(1)"EFX_ADD
+
+i2cmaster/divider_counter[9]~FFeft
+arithmetic"7
+i2cmaster/divider_counter[9]~FFeft(0)/ff(1)"EFX_FF"0
+i2cmaster/add_280/i9eft(0)/adder(1)"EFX_ADD
+ 
+ i2cmaster/divider_counter[10]~FFeft
+arithmetic"8
+ i2cmaster/divider_counter[10]~FFeft(0)/ff(1)"EFX_FF"1
+i2cmaster/add_280/i10eft(0)/adder(1)"EFX_ADD
+ 
+ i2cmaster/divider_counter[11]~FFeft
+arithmetic"8
+ i2cmaster/divider_counter[11]~FFeft(0)/ff(1)"EFX_FF"1
+i2cmaster/add_280/i11eft(0)/adder(1)"EFX_ADD
+ 
+ i2cmaster/divider_counter[12]~FFeft
+arithmetic"8
+ i2cmaster/divider_counter[12]~FFeft(0)/ff(1)"EFX_FF"1
+i2cmaster/add_280/i12eft(0)/adder(1)"EFX_ADD
+ 
+ i2cmaster/divider_counter[13]~FFeft
+arithmetic"8
+ i2cmaster/divider_counter[13]~FFeft(0)/ff(1)"EFX_FF"1
+i2cmaster/add_280/i13eft(0)/adder(1)"EFX_ADD
+ 
+ i2cmaster/divider_counter[14]~FFeft
+arithmetic"8
+ i2cmaster/divider_counter[14]~FFeft(0)/ff(1)"EFX_FF"1
+i2cmaster/add_280/i14eft(0)/adder(1)"EFX_ADD
+ 
+ i2cmaster/divider_counter[15]~FFeft
+arithmetic"8
+ i2cmaster/divider_counter[15]~FFeft(0)/ff(1)"EFX_FF"1
+i2cmaster/add_280/i15eft(0)/adder(1)"EFX_ADD
+†
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.rd_rst[1]~FFeftlogic"G
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.rd_rst[1]~FFeft(0)/ff(0)"EFX_FF
+†
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.rd_rst[0]~FFeftlogic"G
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.rd_rst[0]~FFeft(0)/ff(0)"EFX_FF
+†
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.wr_rst[0]~FFeftlogic"G
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.wr_rst[0]~FFeft(0)/ff(0)"EFX_FF
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[1]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[1]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i1eft(0)/adder(1)"EFX_ADD
+t
+&i2c_rd_fifo/u_efx_fifo_top/waddr[0]~FFeftlogic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[0]~FFeft(0)/ff(0)"EFX_FF
+t
+&i2c_rd_fifo/u_efx_fifo_top/raddr[0]~FFeftlogic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[0]~FFeft(0)/ff(0)"EFX_FF
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[0]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2277eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[0]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2282eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[0]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2283eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[0]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2284eft(0)/lut4(0)/lut(1)"names
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[2]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[2]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i2eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[3]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[3]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i3eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[4]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[4]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i4eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[5]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[5]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i5eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[6]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[6]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i6eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[7]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[7]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i7eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[8]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[8]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i8eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/waddr[9]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/waddr[9]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i9eft(0)/adder(1)"EFX_ADD
+ò
+:i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/waddr_cntr[10]~FFeft
+arithmetic"R
+:i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/waddr_cntr[10]~FFeft(0)/ff(1)"EFX_FF"O
+3i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_76/i10eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[1]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[1]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i1eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[2]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[2]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i2eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[3]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[3]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i3eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[4]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[4]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i4eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[5]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[5]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i5eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[6]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[6]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i6eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[7]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[7]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i7eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[8]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[8]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i8eft(0)/adder(1)"EFX_ADD
+É
+&i2c_rd_fifo/u_efx_fifo_top/raddr[9]~FFeft
+arithmetic">
+&i2c_rd_fifo/u_efx_fifo_top/raddr[9]~FFeft(0)/ff(1)"EFX_FF"N
+2i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i9eft(0)/adder(1)"EFX_ADD
+ò
+:i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/raddr_cntr[10]~FFeft
+arithmetic"R
+:i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/raddr_cntr[10]~FFeft(0)/ff(1)"EFX_FF"O
+3i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/add_79/i10eft(0)/adder(1)"EFX_ADD
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[1]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2289eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[2]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2290eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[3]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2276eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[4]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2292eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[5]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2291eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[6]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2275eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[7]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2293eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[8]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2274eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[9]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2273eft(0)/lut4(0)/lut(1)"names
+Ò
+Ui2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[10]~FFeftlogic"m
+Ui2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.raddr_cntr_sync_g2b_r[10]~FFeft(0)/ff(0)"EFX_FF
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[1]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2294eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[2]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2295eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[3]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2281eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[4]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2297eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[5]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2296eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[6]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2280eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[7]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2298eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[8]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2279eft(0)/lut4(0)/lut(1)"names
+û
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[9]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2278eft(0)/lut4(0)/lut(1)"names
+Ò
+Ui2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[10]~FFeftlogic"m
+Ui2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.genblk1.waddr_cntr_sync_g2b_r[10]~FFeft(0)/ff(0)"EFX_FF
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[1]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2299eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[2]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2300eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[3]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2301eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[4]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2302eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[5]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2303eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[6]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2304eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[7]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2305eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[8]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2306eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[9]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2307eft(0)/lut4(0)/lut(1)"names
+¸
+Hi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[10]~FFeftlogic"`
+Hi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_r[10]~FFeft(0)/ff(0)"EFX_FF
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[1]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2308eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[2]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2309eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[3]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2310eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[4]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2311eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[5]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2312eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[6]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2313eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[7]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2314eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[8]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2315eft(0)/lut4(0)/lut(1)"names
+á
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[9]~FFeftlogic"_
+Gi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[9]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2316eft(0)/lut4(0)/lut(1)"names
+¸
+Hi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[10]~FFeftlogic"`
+Hi2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_r[10]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][5]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][5]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][4]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][4]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][3]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][3]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][2]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][2]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][6]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][6]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][0]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][0]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][1]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][1]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][7]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][7]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][8]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][8]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][9]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][9]~FFeft(0)/ff(0)"EFX_FF
+Ð
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][10]~FFeftlogic"l
+Ti2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.xrd2wr_addr_sync/pipe_reg[0][10]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[0]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[0]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[1]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[1]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[2]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[2]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[3]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[3]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[4]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[4]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[5]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[5]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[6]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[6]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[7]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[7]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[8]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[8]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[9]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[9]~FFeft(0)/ff(0)"EFX_FF
+¾
+Ki2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[10]~FFeftlogic"c
+Ki2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.raddr_cntr_gry_sync[10]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][5]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][5]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][4]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][4]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][3]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][3]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][2]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][2]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][6]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][6]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][0]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][0]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][1]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][1]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][7]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][7]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][8]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][8]~FFeft(0)/ff(0)"EFX_FF
+Ì
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][9]~FFeftlogic"j
+Ri2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][9]~FFeft(0)/ff(0)"EFX_FF
+Î
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][10]~FFeftlogic"k
+Si2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.wr2rd_addr_sync/pipe_reg[0][10]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[0]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[0]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[1]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[1]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[2]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[2]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[3]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[3]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[4]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[4]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[5]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[5]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[6]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[6]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[7]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[7]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[8]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[8]~FFeft(0)/ff(0)"EFX_FF
+¼
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[9]~FFeftlogic"b
+Ji2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[9]~FFeft(0)/ff(0)"EFX_FF
+¾
+Ki2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[10]~FFeftlogic"c
+Ki2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/genblk7.waddr_cntr_gry_sync[10]~FFeft(0)/ff(0)"EFX_FF
+†
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.wr_rst[1]~FFeftlogic"G
+/i2c_rd_fifo/u_efx_fifo_top/genblk2.wr_rst[1]~FFeft(0)/ff(0)"EFX_FF
+q
+w_tx_byte[0]~FFeftlogic"'
+w_tx_byte[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2318eft(0)/lut4(0)/lut(1)"names
+o
+i5/state[0]~FFeftlogic"&
+i5/state[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2320eft(0)/lut4(0)/lut(1)"names
+H
+w2_fifo_rd_en~FFeftlogic"(
+w2_fifo_rd_en~FFeft(0)/ff(0)"EFX_FF
+g
+
+w_tx_dv~FFeftlogic""
+
+w_tx_dv~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2317eft(0)/lut4(0)/lut(1)"names
+q
+w_tx_byte[1]~FFeftlogic"'
+w_tx_byte[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2322eft(0)/lut4(0)/lut(1)"names
+q
+w_tx_byte[2]~FFeftlogic"'
+w_tx_byte[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2323eft(0)/lut4(0)/lut(1)"names
+q
+w_tx_byte[3]~FFeftlogic"'
+w_tx_byte[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2324eft(0)/lut4(0)/lut(1)"names
+q
+w_tx_byte[4]~FFeftlogic"'
+w_tx_byte[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2325eft(0)/lut4(0)/lut(1)"names
+q
+w_tx_byte[5]~FFeftlogic"'
+w_tx_byte[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2326eft(0)/lut4(0)/lut(1)"names
+q
+w_tx_byte[6]~FFeftlogic"'
+w_tx_byte[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2327eft(0)/lut4(0)/lut(1)"names
+q
+w_tx_byte[7]~FFeftlogic"'
+w_tx_byte[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2328eft(0)/lut4(0)/lut(1)"names
+o
+i5/state[1]~FFeftlogic"&
+i5/state[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2329eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[0]~FFeftlogic"2
+uarttx/r_Clock_Count[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2334eft(0)/lut4(0)/lut(1)"names
+k
+w_tx_done~FFeftlogic"$
+w_tx_done~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2335eft(0)/lut4(0)/lut(1)"names
+s
+o_tx_serial_2~FFeftlogic"(
+o_tx_serial_2~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2342eft(0)/lut4(0)/lut(1)"names
+ƒ
+uarttx/r_Bit_Index[0]~FFeftlogic"0
+uarttx/r_Bit_Index[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2343eft(0)/lut4(0)/lut(1)"names
+T
+uarttx/r_Tx_Data[0]~FFeftlogic".
+uarttx/r_Tx_Data[0]~FFeft(0)/ff(0)"EFX_FF
+
+uarttx/r_SM_Main[1]~FFeftlogic".
+uarttx/r_SM_Main[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2347eft(0)/lut4(0)/lut(1)"names
+
+uarttx/r_SM_Main[0]~FFeftlogic".
+uarttx/r_SM_Main[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2349eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[1]~FFeftlogic"2
+uarttx/r_Clock_Count[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2350eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[2]~FFeftlogic"2
+uarttx/r_Clock_Count[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2352eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[3]~FFeftlogic"2
+uarttx/r_Clock_Count[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2353eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[4]~FFeftlogic"2
+uarttx/r_Clock_Count[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2355eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[5]~FFeftlogic"2
+uarttx/r_Clock_Count[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2356eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[6]~FFeftlogic"2
+uarttx/r_Clock_Count[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2357eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[7]~FFeftlogic"2
+uarttx/r_Clock_Count[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2359eft(0)/lut4(0)/lut(1)"names
+‡
+uarttx/r_Clock_Count[8]~FFeftlogic"2
+uarttx/r_Clock_Count[8]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2360eft(0)/lut4(0)/lut(1)"names
+ƒ
+uarttx/r_Bit_Index[1]~FFeftlogic"0
+uarttx/r_Bit_Index[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2361eft(0)/lut4(0)/lut(1)"names
+ƒ
+uarttx/r_Bit_Index[2]~FFeftlogic"0
+uarttx/r_Bit_Index[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__2362eft(0)/lut4(0)/lut(1)"names
+T
+uarttx/r_Tx_Data[1]~FFeftlogic".
+uarttx/r_Tx_Data[1]~FFeft(0)/ff(0)"EFX_FF
+T
+uarttx/r_Tx_Data[2]~FFeftlogic".
+uarttx/r_Tx_Data[2]~FFeft(0)/ff(0)"EFX_FF
+T
+uarttx/r_Tx_Data[3]~FFeftlogic".
+uarttx/r_Tx_Data[3]~FFeft(0)/ff(0)"EFX_FF
+T
+uarttx/r_Tx_Data[4]~FFeftlogic".
+uarttx/r_Tx_Data[4]~FFeft(0)/ff(0)"EFX_FF
+T
+uarttx/r_Tx_Data[5]~FFeftlogic".
+uarttx/r_Tx_Data[5]~FFeft(0)/ff(0)"EFX_FF
+T
+uarttx/r_Tx_Data[6]~FFeftlogic".
+uarttx/r_Tx_Data[6]~FFeft(0)/ff(0)"EFX_FF
+T
+uarttx/r_Tx_Data[7]~FFeftlogic".
+uarttx/r_Tx_Data[7]~FFeft(0)/ff(0)"EFX_FF
+T
+uarttx/r_SM_Main[2]~FFeftlogic".
+uarttx/r_SM_Main[2]~FFeft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[7]~FF_brt_62eftlogic")
+	LUT__2085eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[7]~FF_brt_62eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[7]~FF_brt_61eftlogic")
+	LUT__2086eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[7]~FF_brt_61eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[6]~FF_brt_60eftlogic")
+	LUT__2082eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[6]~FF_brt_60eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[6]~FF_brt_59eftlogic")
+	LUT__2083eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[6]~FF_brt_59eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[5]~FF_brt_58eftlogic")
+	LUT__2079eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[5]~FF_brt_58eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[5]~FF_brt_57eftlogic")
+	LUT__2080eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[5]~FF_brt_57eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[4]~FF_brt_56eftlogic")
+	LUT__2076eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[4]~FF_brt_56eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[4]~FF_brt_55eftlogic")
+	LUT__2077eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[4]~FF_brt_55eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[3]~FF_brt_54eftlogic")
+	LUT__2073eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[3]~FF_brt_54eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[3]~FF_brt_53eftlogic")
+	LUT__2074eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[3]~FF_brt_53eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[2]~FF_brt_52eftlogic")
+	LUT__2070eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[2]~FF_brt_52eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[2]~FF_brt_51eftlogic")
+	LUT__2071eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[2]~FF_brt_51eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[1]~FF_brt_50eftlogic")
+	LUT__2067eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[1]~FF_brt_50eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[1]~FF_brt_49eftlogic")
+	LUT__2068eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[1]~FF_brt_49eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[0]~FF_brt_48eftlogic")
+	LUT__2003eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[0]~FF_brt_48eft(0)/ff(0)"EFX_FF
+‰
+w_fifo_wr_data[0]~FF_brt_47eftlogic")
+	LUT__2000eft(0)/lut4(0)/lut(1)"names"3
+w_fifo_wr_data[0]~FF_brt_47eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[7]~FF_brt_35eftlogic")
+	LUT__2065eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[7]~FF_brt_35eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[7]~FF_brt_34eftlogic")
+	LUT__2064eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[7]~FF_brt_34eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[5]~FF_brt_32eftlogic")
+	LUT__2055eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[5]~FF_brt_32eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[4]~FF_brt_30eftlogic")
+	LUT__2059eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[4]~FF_brt_30eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[4]~FF_brt_29eftlogic")
+	LUT__2057eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[4]~FF_brt_29eft(0)/ff(0)"EFX_FF
+\
+i2cctrl/count[4]~FF_brt_28eftlogic"2
+i2cctrl/count[4]~FF_brt_28eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[4]~FF_brt_27eftlogic")
+	LUT__2056eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[4]~FF_brt_27eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[2]~FF_brt_26eftlogic")
+	LUT__2049eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[2]~FF_brt_26eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[2]~FF_brt_25eftlogic")
+	LUT__2048eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[2]~FF_brt_25eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[1]~FF_brt_24eftlogic")
+	LUT__2046eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[1]~FF_brt_24eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[1]~FF_brt_23eftlogic")
+	LUT__2047eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[1]~FF_brt_23eft(0)/ff(0)"EFX_FF
+›
+$i2cctrl/post_wait_state[2]~FF_brt_22eftlogic")
+	LUT__2036eft(0)/lut4(0)/lut(1)"names"<
+$i2cctrl/post_wait_state[2]~FF_brt_22eft(0)/ff(0)"EFX_FF
+›
+$i2cctrl/post_wait_state[2]~FF_brt_21eftlogic")
+	LUT__1972eft(0)/lut4(0)/lut(1)"names"<
+$i2cctrl/post_wait_state[2]~FF_brt_21eft(0)/ff(0)"EFX_FF
+›
+$i2cctrl/post_wait_state[1]~FF_brt_20eftlogic")
+	LUT__2034eft(0)/lut4(0)/lut(1)"names"<
+$i2cctrl/post_wait_state[1]~FF_brt_20eft(0)/ff(0)"EFX_FF
+›
+$i2cctrl/post_wait_state[1]~FF_brt_19eftlogic")
+	LUT__2035eft(0)/lut4(0)/lut(1)"names"<
+$i2cctrl/post_wait_state[1]~FF_brt_19eft(0)/ff(0)"EFX_FF
+›
+$i2cctrl/post_wait_state[1]~FF_brt_18eftlogic")
+	LUT__1955eft(0)/lut4(0)/lut(1)"names"<
+$i2cctrl/post_wait_state[1]~FF_brt_18eft(0)/ff(0)"EFX_FF
+›
+$i2cctrl/post_hold_state[1]~FF_brt_17eftlogic")
+	LUT__2031eft(0)/lut4(0)/lut(1)"names"<
+$i2cctrl/post_hold_state[1]~FF_brt_17eft(0)/ff(0)"EFX_FF
+p
+$i2cctrl/post_hold_state[1]~FF_brt_15eftlogic"<
+$i2cctrl/post_hold_state[1]~FF_brt_15eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[0]~FF_brt_13eftlogic")
+	LUT__1995eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[0]~FF_brt_13eft(0)/ff(0)"EFX_FF
+‡
+i2cctrl/count[6]~FF_brt_10eftlogic")
+	LUT__2063eft(0)/lut4(0)/lut(1)"names"2
+i2cctrl/count[6]~FF_brt_10eft(0)/ff(0)"EFX_FF
+…
+i2cctrl/count[6]~FF_brt_8eftlogic")
+	LUT__2061eft(0)/lut4(0)/lut(1)"names"1
+i2cctrl/count[6]~FF_brt_8eft(0)/ff(0)"EFX_FF
+…
+i2cctrl/state[0]~FF_brt_5eftlogic")
+	LUT__1960eft(0)/lut4(0)/lut(1)"names"1
+i2cctrl/state[0]~FF_brt_5eft(0)/ff(0)"EFX_FF
+“
+ i2cctrl/state[0]~FF_brt_6_brt_43eftlogic")
+	LUT__1897eft(0)/lut4(0)/lut(1)"names"8
+ i2cctrl/state[0]~FF_brt_6_brt_43eft(0)/ff(0)"EFX_FF
+…
+i2cctrl/state[1]~FF_brt_2eftlogic")
+	LUT__2005eft(0)/lut4(0)/lut(1)"names"1
+i2cctrl/state[1]~FF_brt_2eft(0)/ff(0)"EFX_FF
+…
+i2cctrl/state[1]~FF_brt_1eftlogic")
+	LUT__1988eft(0)/lut4(0)/lut(1)"names"1
+i2cctrl/state[1]~FF_brt_1eft(0)/ff(0)"EFX_FF
+…
+i2cctrl/state[1]~FF_brt_0eftlogic")
+	LUT__1970eft(0)/lut4(0)/lut(1)"names"1
+i2cctrl/state[1]~FF_brt_0eft(0)/ff(0)"EFX_FF
+.
+clkioinpad"
+clkio(0)/inpad(0)"input
+>
+i_rx_serialioinpad"$
+i_rx_serialio(0)/inpad(0)"input
+A
+o_tx_serialiooutpad"&
+o_tx_serialio(0)/outpad(1)"output
+4
+scl_inioinpad"
+scl_inio(0)/inpad(0)"input
+4
+sda_inioinpad"
+sda_inio(0)/inpad(0)"input
+9
+scl_outiooutpad""
+scl_outio(0)/outpad(1)"output
+9
+sda_outiooutpad""
+sda_outio(0)/outpad(1)"output
+7
+scl_oeiooutpad"!
+scl_oeio(0)/outpad(1)"output
+7
+sda_oeiooutpad"!
+sda_oeio(0)/outpad(1)"output
+1
+lediooutpad"
+ledio(0)/outpad(1)"output
+6
+VCCefllogic"#
+VCCefl(0)/lut4(0)/lut(1)"names
+6
+GNDeftlogic"#
+GNDeft(0)/lut4(0)/lut(1)"names
+j
+w1_fifo_rd_en~FF_brt_36_rtinvefllogic"=
+w1_fifo_rd_en~FF_brt_36_rtinvefl(0)/lut4(0)/lut(1)"names
+r
+!w_fifo_wr_data[6]~FF_brt_60_rtinvefllogic"A
+!w_fifo_wr_data[6]~FF_brt_60_rtinvefl(0)/lut4(0)/lut(1)"names
+r
+!w_fifo_wr_data[7]~FF_brt_62_rtinvefllogic"A
+!w_fifo_wr_data[7]~FF_brt_62_rtinvefl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1838efllogic")
+	LUT__1838efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1839efllogic")
+	LUT__1839efl(0)/lut4(0)/lut(1)"names
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl(0)/adder(1)"EFX_ADD
+£
+9i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl
+arithmetic"U
+9i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl(0)/adder(1)"EFX_ADD
+£
+9i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i10efl
+arithmetic"U
+9i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i10efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i9efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i9efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i8efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i8efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i7efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i7efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i6efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i6efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i5efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i5efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i4efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i4efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i3efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i3efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i2efl
+arithmetic"T
+8i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i2efl(0)/adder(1)"EFX_ADD
+£
+9i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl
+arithmetic"U
+9i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl(0)/adder(1)"EFX_ADD
+£
+9i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i10efl
+arithmetic"U
+9i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i10efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i9efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i9efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i8efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i8efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i7efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i7efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i6efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i6efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i5efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i5efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i4efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i4efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i3efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i3efl(0)/adder(1)"EFX_ADD
+¡
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i2efl
+arithmetic"T
+8i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i2efl(0)/adder(1)"EFX_ADD
+§
+1i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$2memorybram"d
+1i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$2#memory(0)/mem_blk(0)/ram_4096x20(0)"
+EFX_RAM_5K
+§
+1i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$1memorybram"d
+1i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$1#memory(0)/mem_blk(0)/ram_4096x20(0)"
+EFX_RAM_5K
+§
+1i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$2memorybram"d
+1i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$2#memory(0)/mem_blk(0)/ram_4096x20(0)"
+EFX_RAM_5K
+§
+1i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$1memorybram"d
+1i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ram/ram__D$1#memory(0)/mem_blk(0)/ram_4096x20(0)"
+EFX_RAM_5K
+B
+	LUT__1840efllogic")
+	LUT__1840efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1841efllogic")
+	LUT__1841efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1842efllogic")
+	LUT__1842efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1843efllogic")
+	LUT__1843efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1844efllogic")
+	LUT__1844efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1845efllogic")
+	LUT__1845efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1846efllogic")
+	LUT__1846efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1847efllogic")
+	LUT__1847efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1848efllogic")
+	LUT__1848efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1849efllogic")
+	LUT__1849efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1850efllogic")
+	LUT__1850efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1851efllogic")
+	LUT__1851efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1854efllogic")
+	LUT__1854efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1855efllogic")
+	LUT__1855efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1856efllogic")
+	LUT__1856efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1857efllogic")
+	LUT__1857efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1858efllogic")
+	LUT__1858efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1859efllogic")
+	LUT__1859efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1861efllogic")
+	LUT__1861efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1862efllogic")
+	LUT__1862efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1864efllogic")
+	LUT__1864efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1866efllogic")
+	LUT__1866efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1867efllogic")
+	LUT__1867efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1868efllogic")
+	LUT__1868efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1869efllogic")
+	LUT__1869efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1871efllogic")
+	LUT__1871efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1872efllogic")
+	LUT__1872efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1873efllogic")
+	LUT__1873efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1874efllogic")
+	LUT__1874efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1875efllogic")
+	LUT__1875efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1876efllogic")
+	LUT__1876efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1877efllogic")
+	LUT__1877efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1878efllogic")
+	LUT__1878efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1880efllogic")
+	LUT__1880efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1883efllogic")
+	LUT__1883efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1887efllogic")
+	LUT__1887efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1891efllogic")
+	LUT__1891efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1894efllogic")
+	LUT__1894efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1895efllogic")
+	LUT__1895efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1896efllogic")
+	LUT__1896efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1898efllogic")
+	LUT__1898efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1899efllogic")
+	LUT__1899efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1900efllogic")
+	LUT__1900efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1901efllogic")
+	LUT__1901efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1902efllogic")
+	LUT__1902efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1903efllogic")
+	LUT__1903efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1904efllogic")
+	LUT__1904efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1905efllogic")
+	LUT__1905efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1906efllogic")
+	LUT__1906efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1907efllogic")
+	LUT__1907efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1908efllogic")
+	LUT__1908efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1909efllogic")
+	LUT__1909efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1910efllogic")
+	LUT__1910efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1951efllogic")
+	LUT__1951efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1952efllogic")
+	LUT__1952efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1954efllogic")
+	LUT__1954efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1957efllogic")
+	LUT__1957efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1958efllogic")
+	LUT__1958efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1961efllogic")
+	LUT__1961efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1962efllogic")
+	LUT__1962efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1963efllogic")
+	LUT__1963efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1964efllogic")
+	LUT__1964efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1965efllogic")
+	LUT__1965efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1966efllogic")
+	LUT__1966efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1967efllogic")
+	LUT__1967efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1968efllogic")
+	LUT__1968efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1969efllogic")
+	LUT__1969efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1973efllogic")
+	LUT__1973efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1976efllogic")
+	LUT__1976efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1977efllogic")
+	LUT__1977efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1978efllogic")
+	LUT__1978efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1979efllogic")
+	LUT__1979efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1980efllogic")
+	LUT__1980efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1981efllogic")
+	LUT__1981efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1982efllogic")
+	LUT__1982efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1983efllogic")
+	LUT__1983efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1984efllogic")
+	LUT__1984efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1985efllogic")
+	LUT__1985efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1987efllogic")
+	LUT__1987efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1989efllogic")
+	LUT__1989efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1990efllogic")
+	LUT__1990efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1991efllogic")
+	LUT__1991efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1992efllogic")
+	LUT__1992efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1996efllogic")
+	LUT__1996efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1997efllogic")
+	LUT__1997efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1999efllogic")
+	LUT__1999efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2001efllogic")
+	LUT__2001efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2002efllogic")
+	LUT__2002efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2008efllogic")
+	LUT__2008efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2029efllogic")
+	LUT__2029efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2030efllogic")
+	LUT__2030efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2033efllogic")
+	LUT__2033efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2040efllogic")
+	LUT__2040efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2042efllogic")
+	LUT__2042efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2044efllogic")
+	LUT__2044efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2050efllogic")
+	LUT__2050efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2051efllogic")
+	LUT__2051efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2054efllogic")
+	LUT__2054efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2058efllogic")
+	LUT__2058efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2060efllogic")
+	LUT__2060efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2062efllogic")
+	LUT__2062efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2066efllogic")
+	LUT__2066efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2069efllogic")
+	LUT__2069efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2072efllogic")
+	LUT__2072efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2075efllogic")
+	LUT__2075efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2078efllogic")
+	LUT__2078efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2081efllogic")
+	LUT__2081efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2084efllogic")
+	LUT__2084efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2087efllogic")
+	LUT__2087efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2088efllogic")
+	LUT__2088efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2089efllogic")
+	LUT__2089efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2090efllogic")
+	LUT__2090efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2091efllogic")
+	LUT__2091efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2092efllogic")
+	LUT__2092efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2093efllogic")
+	LUT__2093efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2094efllogic")
+	LUT__2094efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2095efllogic")
+	LUT__2095efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2096efllogic")
+	LUT__2096efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2097efllogic")
+	LUT__2097efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2098efllogic")
+	LUT__2098efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2099efllogic")
+	LUT__2099efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2100efllogic")
+	LUT__2100efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2101efllogic")
+	LUT__2101efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2102efllogic")
+	LUT__2102efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2103efllogic")
+	LUT__2103efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2104efllogic")
+	LUT__2104efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2105efllogic")
+	LUT__2105efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2106efllogic")
+	LUT__2106efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2107efllogic")
+	LUT__2107efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2108efllogic")
+	LUT__2108efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2109efllogic")
+	LUT__2109efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2110efllogic")
+	LUT__2110efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2111efllogic")
+	LUT__2111efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2112efllogic")
+	LUT__2112efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2113efllogic")
+	LUT__2113efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2114efllogic")
+	LUT__2114efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2115efllogic")
+	LUT__2115efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2116efllogic")
+	LUT__2116efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2117efllogic")
+	LUT__2117efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2118efllogic")
+	LUT__2118efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2119efllogic")
+	LUT__2119efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2121efllogic")
+	LUT__2121efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2122efllogic")
+	LUT__2122efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2123efllogic")
+	LUT__2123efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2124efllogic")
+	LUT__2124efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2125efllogic")
+	LUT__2125efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2126efllogic")
+	LUT__2126efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2127efllogic")
+	LUT__2127efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2128efllogic")
+	LUT__2128efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2129efllogic")
+	LUT__2129efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2130efllogic")
+	LUT__2130efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2132efllogic")
+	LUT__2132efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2133efllogic")
+	LUT__2133efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2134efllogic")
+	LUT__2134efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2135efllogic")
+	LUT__2135efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2137efllogic")
+	LUT__2137efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2138efllogic")
+	LUT__2138efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2139efllogic")
+	LUT__2139efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2140efllogic")
+	LUT__2140efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2141efllogic")
+	LUT__2141efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2142efllogic")
+	LUT__2142efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2143efllogic")
+	LUT__2143efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2145efllogic")
+	LUT__2145efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2146efllogic")
+	LUT__2146efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2147efllogic")
+	LUT__2147efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2148efllogic")
+	LUT__2148efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2149efllogic")
+	LUT__2149efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2150efllogic")
+	LUT__2150efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2151efllogic")
+	LUT__2151efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2152efllogic")
+	LUT__2152efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2153efllogic")
+	LUT__2153efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2154efllogic")
+	LUT__2154efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2155efllogic")
+	LUT__2155efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2156efllogic")
+	LUT__2156efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2157efllogic")
+	LUT__2157efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2158efllogic")
+	LUT__2158efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2159efllogic")
+	LUT__2159efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2160efllogic")
+	LUT__2160efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2161efllogic")
+	LUT__2161efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2162efllogic")
+	LUT__2162efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2163efllogic")
+	LUT__2163efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2164efllogic")
+	LUT__2164efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2165efllogic")
+	LUT__2165efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2166efllogic")
+	LUT__2166efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2167efllogic")
+	LUT__2167efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2168efllogic")
+	LUT__2168efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2169efllogic")
+	LUT__2169efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2170efllogic")
+	LUT__2170efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2172efllogic")
+	LUT__2172efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2173efllogic")
+	LUT__2173efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2174efllogic")
+	LUT__2174efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2175efllogic")
+	LUT__2175efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2176efllogic")
+	LUT__2176efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2177efllogic")
+	LUT__2177efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2179efllogic")
+	LUT__2179efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2180efllogic")
+	LUT__2180efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2181efllogic")
+	LUT__2181efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2182efllogic")
+	LUT__2182efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2183efllogic")
+	LUT__2183efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2184efllogic")
+	LUT__2184efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2186efllogic")
+	LUT__2186efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2187efllogic")
+	LUT__2187efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2188efllogic")
+	LUT__2188efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2189efllogic")
+	LUT__2189efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2190efllogic")
+	LUT__2190efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2191efllogic")
+	LUT__2191efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2193efllogic")
+	LUT__2193efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2194efllogic")
+	LUT__2194efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2195efllogic")
+	LUT__2195efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2196efllogic")
+	LUT__2196efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2197efllogic")
+	LUT__2197efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2198efllogic")
+	LUT__2198efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2199efllogic")
+	LUT__2199efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2200efllogic")
+	LUT__2200efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2202efllogic")
+	LUT__2202efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2203efllogic")
+	LUT__2203efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2204efllogic")
+	LUT__2204efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2205efllogic")
+	LUT__2205efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2207efllogic")
+	LUT__2207efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2208efllogic")
+	LUT__2208efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2210efllogic")
+	LUT__2210efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2211efllogic")
+	LUT__2211efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2213efllogic")
+	LUT__2213efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2214efllogic")
+	LUT__2214efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2215efllogic")
+	LUT__2215efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2216efllogic")
+	LUT__2216efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2218efllogic")
+	LUT__2218efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2219efllogic")
+	LUT__2219efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2220efllogic")
+	LUT__2220efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2221efllogic")
+	LUT__2221efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2223efllogic")
+	LUT__2223efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2224efllogic")
+	LUT__2224efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2226efllogic")
+	LUT__2226efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2227efllogic")
+	LUT__2227efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2229efllogic")
+	LUT__2229efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2230efllogic")
+	LUT__2230efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2232efllogic")
+	LUT__2232efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2233efllogic")
+	LUT__2233efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2234efllogic")
+	LUT__2234efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2235efllogic")
+	LUT__2235efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2236efllogic")
+	LUT__2236efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2238efllogic")
+	LUT__2238efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2239efllogic")
+	LUT__2239efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2241efllogic")
+	LUT__2241efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2242efllogic")
+	LUT__2242efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2244efllogic")
+	LUT__2244efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2245efllogic")
+	LUT__2245efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2247efllogic")
+	LUT__2247efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2248efllogic")
+	LUT__2248efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2252efllogic")
+	LUT__2252efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2254efllogic")
+	LUT__2254efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2256efllogic")
+	LUT__2256efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2258efllogic")
+	LUT__2258efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2261efllogic")
+	LUT__2261efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2263efllogic")
+	LUT__2263efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2264efllogic")
+	LUT__2264efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2265efllogic")
+	LUT__2265efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2266efllogic")
+	LUT__2266efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2267efllogic")
+	LUT__2267efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2268efllogic")
+	LUT__2268efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2269efllogic")
+	LUT__2269efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2270efllogic")
+	LUT__2270efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2271efllogic")
+	LUT__2271efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2272efllogic")
+	LUT__2272efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2285efllogic")
+	LUT__2285efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2286efllogic")
+	LUT__2286efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2287efllogic")
+	LUT__2287efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2288efllogic")
+	LUT__2288efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2319efllogic")
+	LUT__2319efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2321efllogic")
+	LUT__2321efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2330efllogic")
+	LUT__2330efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2331efllogic")
+	LUT__2331efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2332efllogic")
+	LUT__2332efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2333efllogic")
+	LUT__2333efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2336efllogic")
+	LUT__2336efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2337efllogic")
+	LUT__2337efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2338efllogic")
+	LUT__2338efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2339efllogic")
+	LUT__2339efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2340efllogic")
+	LUT__2340efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2341efllogic")
+	LUT__2341efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2344efllogic")
+	LUT__2344efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2345efllogic")
+	LUT__2345efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2346efllogic")
+	LUT__2346efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2348efllogic")
+	LUT__2348efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2351efllogic")
+	LUT__2351efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2354efllogic")
+	LUT__2354efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2358efllogic")
+	LUT__2358efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2363efllogic")
+	LUT__2363efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__2367efllogic")
+	LUT__2367efl(0)/lut4(0)/lut(1)"names
+„
+*i2cctrl/post_hold_state[1]~FF_brt_17_rtinvefllogic"J
+*i2cctrl/post_hold_state[1]~FF_brt_17_rtinvefl(0)/lut4(0)/lut(1)"names
+p
+ i2cctrl/count[4]~FF_brt_28_rtinvefllogic"@
+ i2cctrl/count[4]~FF_brt_28_rtinvefl(0)/lut4(0)/lut(1)"names
+r
+!w_fifo_wr_data[5]~FF_brt_58_rtinvefllogic"A
+!w_fifo_wr_data[5]~FF_brt_58_rtinvefl(0)/lut4(0)/lut(1)"names
+S
+	CLKBUF__0
+gbuf_block
+gbuf_block".
+	CLKBUF__0gbuf_block(0)/gbuf(0)"
+EFX_GBUFCE
+»
+EAUX_ADD_CO__i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl
+arithmetic"a
+EAUX_ADD_CO__i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl(0)/adder(1)"EFX_ADD
+»
+EAUX_ADD_CO__i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl
+arithmetic"a
+EAUX_ADD_CO__i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i11efl(0)/adder(1)"EFX_ADD
+¹
+DAUX_ADD_CI__i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl
+arithmetic"`
+DAUX_ADD_CI__i2c_rd_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl(0)/adder(1)"EFX_ADD
+¹
+DAUX_ADD_CI__i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl
+arithmetic"`
+DAUX_ADD_CI__i2c_wr_fifo/u_efx_fifo_top/xefx_fifo_ctl/sub_37/add_2/i1efl(0)/adder(1)"EFX_ADD
+r
+!w_fifo_wr_data[0]~FF_brt_48_rtinvefllogic"A
+!w_fifo_wr_data[0]~FF_brt_48_rtinvefl(0)/lut4(0)/lut(1)"names
+r
+!w_fifo_wr_data[1]~FF_brt_50_rtinvefllogic"A
+!w_fifo_wr_data[1]~FF_brt_50_rtinvefl(0)/lut4(0)/lut(1)"names
+r
+!w_fifo_wr_data[2]~FF_brt_52_rtinvefllogic"A
+!w_fifo_wr_data[2]~FF_brt_52_rtinvefl(0)/lut4(0)/lut(1)"names
+r
+!w_fifo_wr_data[3]~FF_brt_54_rtinvefllogic"A
+!w_fifo_wr_data[3]~FF_brt_54_rtinvefl(0)/lut4(0)/lut(1)"names
+|
+&i2cctrl/state[0]~FF_brt_6_brt_44_rtinvefllogic"F
+&i2cctrl/state[0]~FF_brt_6_brt_44_rtinvefl(0)/lut4(0)/lut(1)"names
+|
+&i2cctrl/count[6]~FF_brt_9_brt_67_rtinvefllogic"F
+&i2cctrl/count[6]~FF_brt_9_brt_67_rtinvefl(0)/lut4(0)/lut(1)"names
+r
+!w_fifo_wr_data[4]~FF_brt_56_rtinvefllogic"A
+!w_fifo_wr_data[4]~FF_brt_56_rtinvefl(0)/lut4(0)/lut(1)"names

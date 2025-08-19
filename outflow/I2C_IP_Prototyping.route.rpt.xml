@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<efx:tool_report xmlns:efx="http://www.efinixinc.com/tool_report" date="2024-04-22T10:15:48+0530" project="I2C_IP_Prototyping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.efinixinc.com/tool_report tool_report.xsd">
+
+  <efx:group name="System Resources">
+    <efx:group_data info="runtime" name="packing" severity="info" value="0|0:0:0"/>
+    <efx:group_data info="runtime" name="placement" severity="info" value="0|0:0:9"/>
+    <efx:group_data info="runtime" name="routing" severity="info" value="0|0:0:9"/>
+    <efx:group_data info="peak_rr" name="Peak RSS" severity="info" value="2707.07 MB"/>
+  </efx:group>
+
+  <efx:group name="Core Resources">
+    <efx:group_data name="Inputs" severity="info" value="4 / 1076"/>
+    <efx:group_data name="Outputs" severity="info" value="6 / 1566"/>
+    <efx:group_data name="Clocks" severity="info" value="1 / 16"/>
+    <efx:group_data name="Logic Elements" severity="info" value="794 / 112128"/>
+    <efx:group_data name="Memory Blocks" severity="info" value="4 / 1056"/>
+    <efx:group_data name="Multipliers" severity="info" value="0 / 320"/>
+  </efx:group>
+
+  <efx:group name="Interface">
+    <efx:group_data name="Missing Interface Pins" severity="info" value="0"/>
+    <efx:group_data name="Unassigned Core Pins" severity="info" value="0"/>
+  </efx:group>
+
+  <efx:group name="Timing">
+    <efx:group_data name="Worst Negative Slack (WNS)" severity="error" value="-5.228 ns"/>
+    <efx:group_data name="Worst Hold Slack (WHS)" severity="info" value="0.3 ns"/>
+    <efx:group_data name="clk" severity="info" value="160.565 MHz"/>
+  </efx:group>
+
+</efx:tool_report>

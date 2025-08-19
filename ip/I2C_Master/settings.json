@@ -1,0 +1,66 @@
+{
+    "args": [
+        "-o",
+        "I2C_Master",
+        "--base_path",
+        "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip",
+        "--vlnv",
+        {
+            "vendor": "efinixinc.com",
+            "library": "serial_interface",
+            "name": "efx_i2c_controller",
+            "version": "5.0"
+        }
+    ],
+    "conf": {
+        "SLAVE_ADDR": "84",
+        "I2C_FAST_MODE": "0",
+        "I2C_MODE": "\"MASTER\"",
+        "DATA_BYTE_WIDTH": "8",
+        "CLOCK_FREQ": "50",
+        "SPIKE_FILTER_CYCLE": "2"
+    },
+    "output": {
+        "external_source_source": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master_tmpl.vhd",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master_define.vh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master_tmpl.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v"
+        ],
+        "external_example_example": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/i2c_clock_gen.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/i2c_controller_test.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/efx_i2c_master_controller.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/efx_i2c_slave_controller.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/i2c_T20.sdc",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/i2c_functions.vh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/I2C_Master.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/I2C_Master_define.vh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/i2c_controller_test.peri.xml",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/T20F256_devkit/i2c_controller_test.xml"
+        ],
+        "external_example_2": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/i2c_clock_gen.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/i2c_controller_test.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/efx_i2c_master_controller.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/efx_i2c_slave_controller.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/i2c_Ti60.sdc",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/i2c_functions.vh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/I2C_Master.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/I2C_Master_define.vh",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/i2c_controller_test.peri.xml",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Ti60F225_devkit/i2c_controller_test.xml"
+        ],
+        "external_testbench_testbench": [
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Testbench/i2c_controller_tb.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Testbench/i2c_controller_test.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Testbench/efx_i2c_master_controller.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Testbench/efx_i2c_slave_controller.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Testbench/modelsim.do",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Testbench/I2C_Master.v",
+            "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/Testbench/I2C_Master_define.vh"
+        ]
+    },
+    "sw_version": "2023.2.307",
+    "generated_date": "2024-04-16T07:03:25.807335"
+}

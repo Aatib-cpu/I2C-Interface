@@ -1,0 +1,425 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 11:44:38
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'uarttx' (VERI-1137) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:135)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:143)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 11:48:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 11:54:54
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 12:23:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 12:34:06
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 12:45:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 14:15:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 14:55:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 15:48:52
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 16:32:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 16:36:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 16:37:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 17:17:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 17:49:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 16, 2024 17:52:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 17, 2024 10:55:07
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 17, 2024 17:02:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 17, 2024 17:20:38
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 17, 2024 17:45:07
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 17, 2024 18:38:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 18, 2024 14:51:40
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 18, 2024 17:57:12
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 19, 2024 17:57:37
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] ANSI port 'enable' cannot be redeclared (VERI-2285) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:20)
+[EFX-0010 VERI-ERROR] 'WR_FIFO_DATA' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:104)
+[EFX-0010 VERI-ERROR] 'WR_FIFO_DATA' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:111)
+[EFX-0010 VERI-ERROR] 'WR_FIFO_DATA' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:137)
+[EFX-0010 VERI-ERROR] 'r_cmd_byte' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:186)
+[EFX-0010 VERI-ERROR] module 'i2c_ctrl' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:194)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 19, 2024 18:00:19
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'r_cmd_byte' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:186)
+[EFX-0010 VERI-ERROR] module 'i2c_ctrl' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v:194)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 19, 2024 18:00:50
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'I2C_ADDR_WIDTH' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:95)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:176)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 19, 2024 18:01:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 19, 2024 18:06:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 19, 2024 18:20:12
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 09:42:48
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'state' on this module (VERI-1010) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:115)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 09:43:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 11:08:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 11:30:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 11:42:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 11:44:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 12:02:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 12:23:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 12:28:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 12:57:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 14:15:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 14:35:37
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 14:42:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 14:54:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 14:58:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 15:02:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 15:17:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 15:34:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 15:47:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 15:51:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 16:06:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 16:30:48
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '.' (VERI-1137) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:111)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:180)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 16:31:30
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:77)
+[EFX-0010 VERI-ERROR] module 'i2c_master' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:398)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 16:32:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 16:51:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 17:08:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 17:11:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 17:45:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'S_READ_REG_MSB' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:81)
+[EFX-0010 VERI-ERROR] module 'i2c_master' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:395)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 17:47:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 18:06:15
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near ')' (VERI-1137) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:33)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 18:07:49
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'o_fifo_wren' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:110)
+[EFX-0010 VERI-ERROR] 'o_fifo_wren' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:353)
+[EFX-0010 VERI-ERROR] 'o_fifo_wren' is not declared (VERI-1128) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:363)
+[EFX-0010 VERI-ERROR] module 'i2c_master' is ignored due to previous errors (VERI-1072) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v:390)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 18:08:57
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'flag_scl' on this module (VERI-1010) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:118)
+[EFX-0010 VERI-ERROR] cannot find port 'i2c_done' on this module (VERI-1010) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:119)
+[EFX-0010 VERI-ERROR] cannot find port 'o_fifo_wren' on this module (VERI-1010) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:120)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 18:11:07
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'flag_scl' on this module (VERI-1010) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:118)
+[EFX-0010 VERI-ERROR] cannot find port 'i2c_done' on this module (VERI-1010) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:119)
+[EFX-0010 VERI-ERROR] cannot find port 'o_fifo_wren' on this module (VERI-1010) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:120)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 20, 2024 18:11:53
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 22, 2024 09:56:31
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] module 'i2c_master' does not have a parameter named REG_WIDTH (VERI-1184) (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:98)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 22, 2024 09:59:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Apr 22, 2024 10:14:02
+///////////////////////////////////
+

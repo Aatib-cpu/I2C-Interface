@@ -1,0 +1,23 @@
+
+Efinix FPGA Bitstream Generator.
+Version: 2023.2.307 
+Copyright (C) 2013 - 2023 Efinix, Inc. All rights reserved.
+
+Compiled: Dec 15 2023.
+
+Using source file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/work_pnr/I2C_IP_Prototyping.lbf"
+Generating HEX programming file for device "T120F324", family "Trion"
+Using periphery source file "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.lpf"
+Generating bit file: "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.bit"
+HEX Generation Options Summary:
+	Listing options specified to bitstream generation:
+	spi_low_power_mode                       = on
+	oscillator_clock_divider                 = DIV8
+	io_weak_pullup                           = on
+	release_tri_then_reset                   = on
+Finished generating "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.hex"
+Efinity Bitstream Generator took 17.431 seconds.
+	Efinity Bitstream Generator took 17.08 seconds (approximately) in total CPU time.
+Efinity Bitstream Generator virtual memory usage: begin = 57.02 MB, end = 196.032 MB, delta = 139.012 MB
+Efinity Bitstream Generator resident set memory usage: begin = 10.24 MB, end = 151.1 MB, delta = 140.86 MB
+	Efinity Bitstream Generator peak resident set memory usage = 2487.81 MB

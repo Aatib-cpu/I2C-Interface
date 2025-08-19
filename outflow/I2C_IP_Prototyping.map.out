@@ -1,0 +1,333 @@
+[EFX-0000 INFO] Efinix FPGA Synthesis.
+[EFX-0000 INFO] Version: 2023.2.307
+[EFX-0000 INFO] Compiled: Dec 15 2023.
+[EFX-0000 INFO] 
+[EFX-0000 INFO] Copyright (C) 2013 - 2023 Efinix, Inc. All rights reserved.
+
+INFO: Read project database "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/I2C_IP_Prototyping.xml"
+-- Analyzing Verilog file '/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v' (VERI-1482)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(8): INFO: compiling module 'EFX_IBUF' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(16): INFO: compiling module 'EFX_OBUF' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(23): INFO: compiling module 'EFX_IO_BUF' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(33): INFO: compiling module 'EFX_CLKOUT' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(41): INFO: compiling module 'EFX_IREG' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(51): INFO: compiling module 'EFX_OREG' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(60): INFO: compiling module 'EFX_IOREG' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(75): INFO: compiling module 'EFX_IDDIO' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(87): INFO: compiling module 'EFX_ODDIO' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(99): INFO: compiling module 'EFX_GPIO_V1' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(118): INFO: compiling module 'EFX_PLL_V1' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v(136): INFO: compiling module 'EFX_OSC_V1' (VERI-1018)
+INFO: Read project database "/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/I2C_IP_Prototyping.xml"
+INFO: ***** Beginning Analysis ... *****
+INFO: default VHDL library search path is now "/home/kaush/efinity/2023.2/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+-- Analyzing Verilog file '/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v' (VERI-1482)
+-- Analyzing Verilog file '/home/kaush/efinity/2023.2/sim_models/maplib/efinix_peri_lib.v' (VERI-1482)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v' (VERI-1482)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v' (VERI-1482)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/test_uart_rx.v' (VERI-1482)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/test_uart_rx.v(10): WARNING: parameter 's_IDLE' becomes localparam in 'test_uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/test_uart_rx.v(11): WARNING: parameter 's_RX_START_BIT' becomes localparam in 'test_uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/test_uart_rx.v(12): WARNING: parameter 's_RX_DATA_BITS' becomes localparam in 'test_uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/test_uart_rx.v(13): WARNING: parameter 's_RX_STOP_BIT' becomes localparam in 'test_uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/test_uart_rx.v(14): WARNING: parameter 's_CLEANUP' becomes localparam in 'test_uart_rx' with formal parameter declaration list (VERI-1199)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v' (VERI-1482)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(10): WARNING: parameter 's_IDLE' becomes localparam in 'uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(11): WARNING: parameter 's_RX_START_BIT' becomes localparam in 'uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(12): WARNING: parameter 's_RX_DATA_BITS' becomes localparam in 'uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(13): WARNING: parameter 's_RX_STOP_BIT' becomes localparam in 'uart_rx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(14): WARNING: parameter 's_CLEANUP' becomes localparam in 'uart_rx' with formal parameter declaration list (VERI-1199)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v' (VERI-1482)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(12): WARNING: parameter 's_IDLE' becomes localparam in 'uart_tx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(13): WARNING: parameter 's_TX_START_BIT' becomes localparam in 'uart_tx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(14): WARNING: parameter 's_TX_DATA_BITS' becomes localparam in 'uart_tx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(15): WARNING: parameter 's_TX_STOP_BIT' becomes localparam in 'uart_tx' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(16): WARNING: parameter 's_CLEANUP' becomes localparam in 'uart_tx' with formal parameter declaration list (VERI-1199)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx_ctrl.v' (VERI-1482)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v' (VERI-1482)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v' (VERI-1482)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(345): WARNING: parameter 'IDLE_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(346): WARNING: parameter 'START_GEN0_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(347): WARNING: parameter 'WRITE_CMDBYTE0_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(348): WARNING: parameter 'WRITE_DAT0_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(349): WARNING: parameter 'START_GEN1_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(350): WARNING: parameter 'WRITE_CMDBYTE1_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(351): WARNING: parameter 'RESTART_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(352): WARNING: parameter 'WRITE_DAT2_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(353): WARNING: parameter 'STOP_GEN_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(354): WARNING: parameter 'DONE_ST' becomes localparam in 'i2c_master_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(993): WARNING: parameter 'CLOCK_PERIOD_NS' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(996): WARNING: parameter 'T_HIGH' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1000): WARNING: parameter 'T_LOW' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1004): WARNING: parameter 'T_HD_START' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1008): WARNING: parameter 'T_SU_START' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1012): WARNING: parameter 'T_HD_DATA' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1015): WARNING: parameter 'T_SU_STOP' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1019): WARNING: parameter 'T_BUF' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1025): WARNING: parameter 'ST_SCL_IDLE' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1026): WARNING: parameter 'ST_SCL_START' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1027): WARNING: parameter 'ST_SCL_LOW_EDGE' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1028): WARNING: parameter 'ST_SCL_WAIT_uC' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1029): WARNING: parameter 'ST_SCL_LOW' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1030): WARNING: parameter 'ST_SCL_HIGH_EDGE' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1031): WARNING: parameter 'ST_SCL_HIGH' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1032): WARNING: parameter 'ST_SCL_STOP_WAIT' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1034): WARNING: parameter 'ST_SLV_SCL_IDLE' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1035): WARNING: parameter 'ST_SLV_SCL_HOLD_SDA' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1036): WARNING: parameter 'ST_SLV_SCL_WAIT_uC' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1037): WARNING: parameter 'ST_SLV_SCL_STOP_WAIT' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1040): WARNING: parameter 'ST_I2C_IDLE' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1041): WARNING: parameter 'ST_I2C_HEADER' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1042): WARNING: parameter 'ST_I2C_ACK_HEADER' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1043): WARNING: parameter 'ST_I2C_RCV_DATA' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1044): WARNING: parameter 'ST_I2C_ACK_DATA' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1045): WARNING: parameter 'ST_I2C_XMIT_DATA' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1046): WARNING: parameter 'ST_I2C_WAIT_ACK' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1047): WARNING: parameter 'ST_I2C_STOP' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1050): WARNING: parameter 'BYTE_CNT' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(1051): WARNING: parameter 'XFER_DONE' becomes localparam in 'i2c_mstrslv_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2190): WARNING: parameter 'IDLE_WRST' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2191): WARNING: parameter 'GEN_WR_STROBE' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2192): WARNING: parameter 'GEN_TX_DONE' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2194): WARNING: parameter 'IDLE_RDST' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2195): WARNING: parameter 'READ_CMDBYTE_ST' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2196): WARNING: parameter 'RESTART_ST' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2197): WARNING: parameter 'WAIT_4_READ_ST' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2198): WARNING: parameter 'READ_ST' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2199): WARNING: parameter 'GEN_RD_STROBE' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_Master/I2C_Master.v(2200): WARNING: parameter 'GEN_RD_VALID' becomes localparam in 'i2c_slave_ctl_101be2e76448450f80e6b691e7f1d835' with formal parameter declaration list (VERI-1199)
+-- Analyzing Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v' (VERI-1482)
+INFO: Analysis took 0.0542098 seconds.
+INFO: 	Analysis took 0.06 seconds (approximately) in total CPU time.
+INFO: Analysis virtual memory usage: begin = 192.472 MB, end = 193.264 MB, delta = 0.792 MB
+INFO: Analysis resident set memory usage: begin = 76.324 MB, end = 77.86 MB, delta = 1.536 MB
+INFO: 	Analysis peak resident set memory usage = 2487.55 MB
+INFO: ***** Ending Analysis ... *****
+INFO: ***** Beginning Elaboration ... *****
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(75): WARNING: port 'almost_full_o' remains unconnected for this instance (VERI-1927)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(75): WARNING: port 'a_rst_i' is not connected on this instance (VERI-2435)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(127): WARNING: port 'almost_full_o' remains unconnected for this instance (VERI-1927)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(127): WARNING: port 'a_rst_i' is not connected on this instance (VERI-2435)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(1): INFO: compiling module 'top' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(27): WARNING: using initial value of 'r_i2c_config_data' since it is never assigned (VERI-1220)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(1): INFO: compiling module 'uart_rx' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(53): WARNING: expression size 12 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(60): WARNING: expression size 12 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(68): WARNING: expression size 4 truncated to fit in target size 3 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(81): WARNING: expression size 12 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(101): WARNING: expression size 9 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_rx.v(21): WARNING: net 'r_Rx_Byte[8]' does not have a driver (VDB-1002)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(109): WARNING: port 'a_wr_rst_i' remains unconnected for this instance (VERI-1927)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(49): INFO: compiling module 'I2C_FIFO' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(390): INFO: compiling module 'efx_fifo_top_a51c96a95f424469b7da29b24600982b_renamed_due_excessive_length_1' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(682): INFO: compiling module 'efx_fifo_ram_a51c96a95f424469b7da29b24600982b(WR_DEPTH=1024,RD_DEPTH=1024,WADDR_WIDTH=10,RADDR_WIDTH=10,OUTPUT_REG=0,RAM_MUX_RATIO=1)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(719): INFO: extracting RAM for identifier 'ram' (VERI-2571)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(1000): INFO: compiling module 'efx_fifo_ctl_a51c96a95f424469b7da29b24600982b(SYNC_CLK=0,WR_DEPTH=1024,WADDR_WIDTH=10,RADDR_WIDTH=10,PROGRAMMABLE_FULL="STATIC_SINGLE",PROG_FULL_ASSERT=128,PROG_FULL_NEGATE=128,PROG_EMPTY_NEGATE=2)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(1276): WARNING: expression size 32 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(1277): WARNING: expression size 32 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(301): INFO: compiling module 'efx_fifo_bin2gray_a51c96a95f424469b7da29b24600982b(WIDTH=11)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(130): INFO: compiling module 'efx_fifo_datasync_a51c96a95f424469b7da29b24600982b(STAGE=2,WIDTH=11)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=11)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=10)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=9)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=8)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=7)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=6)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=4)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=3)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(213): INFO: compiling module 'efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=2)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(104): WARNING: actual bit length 10 differs from formal bit length 11 for port 'wr_datacount_o' (VERI-1330)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(107): WARNING: actual bit length 10 differs from formal bit length 11 for port 'rd_datacount_o' (VERI-1330)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v(89): WARNING: input port 'a_wr_rst_i' is not connected on this instance (VDB-1013)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v(1): INFO: compiling module 'i2c_ctrl' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v(121): WARNING: expression size 9 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v(125): WARNING: expression size 9 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_ctrl.v(166): WARNING: expression size 9 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(88): WARNING: actual bit length 7 differs from formal bit length 8 for port 'i2c_slv_addr' (VERI-1330)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v(1): INFO: compiling module 'i2c_master' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v(85): WARNING: expression size 17 truncated to fit in target size 16 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v(151): WARNING: expression size 32 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v(213): WARNING: expression size 32 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v(220): WARNING: expression size 9 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v(279): WARNING: expression size 32 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/i2c_master.v(281): WARNING: expression size 9 truncated to fit in target size 8 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(106): WARNING: actual bit length 32 differs from formal bit length 16 for port 'i_divider' (VERI-1330)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(129): WARNING: module instantiation should have an instance name (VERI-1229)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx_ctrl.v(1): INFO: compiling module 'uart_tx_ctrl' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(1): INFO: compiling module 'uart_tx(CLKS_PER_BIT=435)' (VERI-1018)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(49): WARNING: expression size 12 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(62): WARNING: expression size 12 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(69): WARNING: expression size 4 truncated to fit in target size 3 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/uart_tx.v(84): WARNING: expression size 12 truncated to fit in target size 11 (VERI-1209)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(37): WARNING: net 'w_write_done' does not have a driver (VDB-1002)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(67): WARNING: input port 'a_rst_i' remains unconnected for this instance (VDB-1053)
+/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v(119): WARNING: input port 'a_rst_i' remains unconnected for this instance (VDB-1053)
+INFO: Elaboration took 0.0694779 seconds.
+INFO: 	Elaboration took 0.07 seconds (approximately) in total CPU time.
+INFO: Elaboration virtual memory usage: begin = 193.264 MB, end = 198.036 MB, delta = 4.772 MB
+INFO: Elaboration resident set memory usage: begin = 77.86 MB, end = 83.108 MB, delta = 5.248 MB
+INFO: 	Elaboration peak resident set memory usage = 2487.55 MB
+INFO: ***** Ending Elaboration ... *****
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+INFO: ***** Beginning Reading Mapping Library ... *****
+-- Analyzing Verilog file '/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v' (VERI-1482)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(8): INFO: compiling module 'EFX_ADD' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(21): INFO: compiling module 'EFX_FF' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(38): INFO: compiling module 'EFX_COMB4' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(48): INFO: compiling module 'EFX_GBUFCE' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(57): INFO: compiling module 'EFX_LUT4' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(65): INFO: compiling module 'EFX_MULT' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(100): INFO: compiling module 'EFX_DSP48' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(156): INFO: compiling module 'EFX_DSP24' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(209): INFO: compiling module 'EFX_DSP12' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(262): INFO: compiling module 'EFX_RAM_4K' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(322): INFO: compiling module 'EFX_RAM_5K' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(394): INFO: compiling module 'EFX_DPRAM_5K' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(499): INFO: compiling module 'RAMB5' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(561): INFO: compiling module 'EFX_RAM_10K' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(653): INFO: compiling module 'EFX_RAM10' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(754): INFO: compiling module 'EFX_DPRAM10' (VERI-1018)
+/home/kaush/efinity/2023.2/sim_models/maplib/efinix_maplib.v(884): INFO: compiling module 'EFX_SRL8' (VERI-1018)
+[EFX-0256 WARNING] The primary output port 'led' wire 'led' is not driven.
+[EFX-0200 WARNING] Removing redundant signal : bit_xor. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:312)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[31]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[30]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[29]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[28]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[27]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[26]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[25]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[24]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[23]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[22]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[21]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[20]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[19]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[18]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[17]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[16]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[15]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[14]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] Removing redundant signal : bit_xor.nex_bit[13]. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:313)
+[EFX-0200 WARNING] The above message was generated too many times, subsequent similar messages will be muted.
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'u_efx_fifo_top.a_wr_rst_i'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:89)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'u_efx_fifo_top.a_rd_rst_i'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:89)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'u_efx_fifo_top.clk_i'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:89)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'i2c_wr_fifo.a_rst_i'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:67)
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[0]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[1]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[2]=1).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[3]=1).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[4]=1).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[5]=1).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[6]=1).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[7]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[8]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[9]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[10]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[11]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[12]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[13]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[14]=0).
+[EFX-0266 WARNING] Module Instance 'i2cmaster' input pin tied to constant (i_divider[15]=0).
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'i2c_rd_fifo.a_rst_i'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:119)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'w_write_done'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/top.v:37)
+INFO: Reading Mapping Library took 0.0239725 seconds.
+INFO: 	Reading Mapping Library took 0.02 seconds (approximately) in total CPU time.
+INFO: Reading Mapping Library virtual memory usage: begin = 198.612 MB, end = 198.612 MB, delta = 0 MB
+INFO: Reading Mapping Library resident set memory usage: begin = 84.132 MB, end = 84.132 MB, delta = 0 MB
+INFO: 	Reading Mapping Library peak resident set memory usage = 2487.55 MB
+INFO: ***** Ending Reading Mapping Library ... *****
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0677 INFO] ... Zero initialization of uninitialized memory block 'ram'. (/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/ip/I2C_FIFO/I2C_FIFO.v:719)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "uart_rx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "uart_rx" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_ram_a51c96a95f424469b7da29b24600982b(WR_DEPTH=1024,RD_DEPTH=1024,WADDR_WIDTH=10,RADDR_WIDTH=10,OUTPUT_REG=0,RAM_MUX_RATIO=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_ram_a51c96a95f424469b7da29b24600982b(WR_DEPTH=1024,RD_DEPTH=1024,WADDR_WIDTH=10,RADDR_WIDTH=10,OUTPUT_REG=0,RAM_MUX_RATIO=1)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_bin2gray_a51c96a95f424469b7da29b24600982b(WIDTH=11)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_bin2gray_a51c96a95f424469b7da29b24600982b(WIDTH=11)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_datasync_a51c96a95f424469b7da29b24600982b(STAGE=2,WIDTH=11)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_datasync_a51c96a95f424469b7da29b24600982b(STAGE=2,WIDTH=11)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=2)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=2)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=3)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=3)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=4)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=4)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=6)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=6)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=7)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=7)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=8)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=8)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=9)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=9)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=10)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=10)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=11)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_gray2bin_a51c96a95f424469b7da29b24600982b(WIDTH=11)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_ctl_a51c96a95f424469b7da29b24600982b(SYNC_CLK=0,WR_DEPTH=1024,WADDR_WIDTH=10,RADDR_WIDTH=10,PROGRAMMABLE_FULL="STATIC_SINGLE",PROG_FULL_ASSERT=128,PROG_FULL_NEGATE=128,PROG_EMPTY_NEGATE=2)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_ctl_a51c96a95f424469b7da29b24600982b(SYNC_CLK=0,WR_DEPTH=1024,WADDR_WIDTH=10,RADDR_WIDTH=10,PROGRAMMABLE_FULL="STATIC_SINGLE",PROG_FULL_ASSERT=128,PROG_FULL_NEGATE=128,PROG_EMPTY_NEGATE=2)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_top_a51c96a95f424469b7da29b24600982b_renamed_due_excessive_length_1" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "efx_fifo_top_a51c96a95f424469b7da29b24600982b_renamed_due_excessive_length_1" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "I2C_FIFO" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "I2C_FIFO" end (Real time : 1s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "i2c_ctrl" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "i2c_ctrl" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "i2c_master" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "i2c_master" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "uart_tx_ctrl" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "uart_tx_ctrl" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "uart_tx(CLKS_PER_BIT=435)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "uart_tx(CLKS_PER_BIT=435)" end (Real time : 0s CPU user time : 8s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 173 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s CPU user time : 9s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s CPU user time : 9s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s CPU user time : 9s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s CPU user time : 9s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s CPU user time : 9s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network 'clk' with 434 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 283 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 4s CPU user time : 12s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s CPU user time : 12s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 526, ed: 1690, lv: 5, pw: 1192.12
+[EFX-0000 INFO] ... LUT mapping end (Real time : 5s CPU user time : 17s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s CPU user time : 17s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network 'clk' with 425 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 7 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 3s CPU user time : 20s CPU sys time : 0s MEM : 2487548KB)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s CPU user time : 20s CPU sys time : 0s MEM : 2487548KB)
+INFO: ***** Beginning VDB Netlist Checker ... *****
+INFO: VDB Netlist Checker took 0.0262085 seconds.
+INFO: 	VDB Netlist Checker took 0.03 seconds (approximately) in total CPU time.
+INFO: VDB Netlist Checker virtual memory usage: begin = 218.496 MB, end = 218.496 MB, delta = 0 MB
+INFO: VDB Netlist Checker resident set memory usage: begin = 112.264 MB, end = 112.264 MB, delta = 0 MB
+INFO: 	VDB Netlist Checker peak resident set memory usage = 2487.55 MB
+INFO: ***** Ending VDB Netlist Checker ... *****
+-- Writing netlist 'top' to Verilog file '/home/kaush/Desktop/Efinity/I2C_IP_Prototyping/outflow/I2C_IP_Prototyping.map.v' (VDB-1030)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	81
+[EFX-0000 INFO] EFX_LUT4        : 	539
+[EFX-0000 INFO] EFX_FF          : 	462
+[EFX-0000 INFO] EFX_RAM_5K      : 	4
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
